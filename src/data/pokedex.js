@@ -2,6 +2,7 @@
 
 exports.BattlePokedex = {
   bulbasaur: {
+    gen: 'I',
     num: 1,
     species: 'Bulbasaur',
     types: ['Grass', 'Poison'],
@@ -15,6 +16,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   ivysaur: {
+    gen: 'I',
     num: 2,
     species: 'Ivysaur',
     types: ['Grass', 'Poison'],
@@ -30,6 +32,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   venusaur: {
+    gen: 'I',
     num: 3,
     species: 'Venusaur',
     types: ['Grass', 'Poison'],
@@ -45,6 +48,7 @@ exports.BattlePokedex = {
     otherFormes: ['venusaurmega']
   },
   venusaurmega: {
+    gen: 'I',
     num: 3,
     species: 'Venusaur-Mega',
     baseSpecies: 'Venusaur',
@@ -61,6 +65,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   charmander: {
+    gen: 'I',
     num: 4,
     species: 'Charmander',
     types: ['Fire'],
@@ -74,6 +79,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   charmeleon: {
+    gen: 'I',
     num: 5,
     species: 'Charmeleon',
     types: ['Fire'],
@@ -89,6 +95,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   charizard: {
+    gen: 'I',
     num: 6,
     species: 'Charizard',
     types: ['Fire', 'Flying'],
@@ -104,6 +111,7 @@ exports.BattlePokedex = {
     otherFormes: ['charizardmegax', 'charizardmegay']
   },
   charizardmegax: {
+    gen: 'I',
     num: 6,
     species: 'Charizard-Mega-X',
     baseSpecies: 'Charizard',
@@ -120,6 +128,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   charizardmegay: {
+    gen: 'I',
     num: 6,
     species: 'Charizard-Mega-Y',
     baseSpecies: 'Charizard',
@@ -136,6 +145,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   squirtle: {
+    gen: 'I',
     num: 7,
     species: 'Squirtle',
     types: ['Water'],
@@ -149,6 +159,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   wartortle: {
+    gen: 'I',
     num: 8,
     species: 'Wartortle',
     types: ['Water'],
@@ -164,6 +175,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   blastoise: {
+    gen: 'I',
     num: 9,
     species: 'Blastoise',
     types: ['Water'],
@@ -179,6 +191,7 @@ exports.BattlePokedex = {
     otherFormes: ['blastoisemega']
   },
   blastoisemega: {
+    gen: 'I',
     num: 9,
     species: 'Blastoise-Mega',
     baseSpecies: 'Blastoise',
@@ -195,6 +208,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   caterpie: {
+    gen: 'I',
     num: 10,
     species: 'Caterpie',
     types: ['Bug'],
@@ -207,6 +221,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   metapod: {
+    gen: 'I',
     num: 11,
     species: 'Metapod',
     types: ['Bug'],
@@ -221,6 +236,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   butterfree: {
+    gen: 'I',
     num: 12,
     species: 'Butterfree',
     types: ['Bug', 'Flying'],
@@ -234,6 +250,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   weedle: {
+    gen: 'I',
     num: 13,
     species: 'Weedle',
     types: ['Bug', 'Poison'],
@@ -246,6 +263,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   kakuna: {
+    gen: 'I',
     num: 14,
     species: 'Kakuna',
     types: ['Bug', 'Poison'],
@@ -260,6 +278,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   beedrill: {
+    gen: 'I',
     num: 15,
     species: 'Beedrill',
     types: ['Bug', 'Poison'],
@@ -274,6 +293,7 @@ exports.BattlePokedex = {
     otherFormes: ['beedrillmega']
   },
   beedrillmega: {
+    gen: 'I',
     num: 15,
     species: 'Beedrill-Mega',
     baseSpecies: 'Beedrill',
@@ -289,6 +309,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   pidgey: {
+    gen: 'I',
     num: 16,
     species: 'Pidgey',
     types: ['Normal', 'Flying'],
@@ -301,6 +322,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   pidgeotto: {
+    gen: 'I',
     num: 17,
     species: 'Pidgeotto',
     types: ['Normal', 'Flying'],
@@ -315,6 +337,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   pidgeot: {
+    gen: 'I',
     num: 18,
     species: 'Pidgeot',
     types: ['Normal', 'Flying'],
@@ -329,6 +352,7 @@ exports.BattlePokedex = {
     otherFormes: ['pidgeotmega']
   },
   pidgeotmega: {
+    gen: 'I',
     num: 18,
     species: 'Pidgeot-Mega',
     baseSpecies: 'Pidgeot',
@@ -344,6 +368,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   rattata: {
+    gen: 'I',
     num: 19,
     species: 'Rattata',
     types: ['Normal'],
@@ -357,6 +382,7 @@ exports.BattlePokedex = {
     otherFormes: ['rattataalola']
   },
   rattataalola: {
+    gen: 'I',
     num: 19,
     species: 'Rattata-Alola',
     baseSpecies: 'Rattata',
@@ -373,6 +399,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   raticate: {
+    gen: 'I',
     num: 20,
     species: 'Raticate',
     types: ['Normal'],
@@ -387,6 +414,7 @@ exports.BattlePokedex = {
     otherFormes: ['raticatealola']
   },
   raticatealola: {
+    gen: 'I',
     num: 20,
     species: 'Raticate-Alola',
     baseSpecies: 'Raticate',
@@ -404,6 +432,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   spearow: {
+    gen: 'I',
     num: 21,
     species: 'Spearow',
     types: ['Normal', 'Flying'],
@@ -416,6 +445,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   fearow: {
+    gen: 'I',
     num: 22,
     species: 'Fearow',
     types: ['Normal', 'Flying'],
@@ -429,6 +459,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   ekans: {
+    gen: 'I',
     num: 23,
     species: 'Ekans',
     types: ['Poison'],
@@ -441,6 +472,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Dragon']
   },
   arbok: {
+    gen: 'I',
     num: 24,
     species: 'Arbok',
     types: ['Poison'],
@@ -454,6 +486,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Dragon']
   },
   pikachu: {
+    gen: 'I',
     num: 25,
     species: 'Pikachu',
     types: ['Electric'],
@@ -469,6 +502,7 @@ exports.BattlePokedex = {
     otherFormes: ['pikachucosplay', 'pikachurockstar', 'pikachubelle', 'pikachupopstar', 'pikachuphd', 'pikachulibre', 'pikachuoriginal', 'pikachuhoenn', 'pikachusinnoh', 'pikachuunova', 'pikachukalos', 'pikachualola']
   },
   raichu: {
+    gen: 'I',
     num: 26,
     species: 'Raichu',
     types: ['Electric'],
@@ -483,6 +517,7 @@ exports.BattlePokedex = {
     otherFormes: ['raichualola']
   },
   raichualola: {
+    gen: 'I',
     num: 26,
     species: 'Raichu-Alola',
     baseSpecies: 'Raichu',
@@ -500,6 +535,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   sandshrew: {
+    gen: 'I',
     num: 27,
     species: 'Sandshrew',
     types: ['Ground'],
@@ -513,6 +549,7 @@ exports.BattlePokedex = {
     otherFormes: ['sandshrewalola']
   },
   sandshrewalola: {
+    gen: 'I',
     num: 27,
     species: 'Sandshrew-Alola',
     baseSpecies: 'Sandshrew',
@@ -529,6 +566,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   sandslash: {
+    gen: 'I',
     num: 28,
     species: 'Sandslash',
     types: ['Ground'],
@@ -543,6 +581,7 @@ exports.BattlePokedex = {
     otherFormes: ['sandslashalola']
   },
   sandslashalola: {
+    gen: 'I',
     num: 28,
     species: 'Sandslash-Alola',
     baseSpecies: 'Sandslash',
@@ -560,6 +599,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   nidoranf: {
+    gen: 'I',
     num: 29,
     species: 'Nidoran-F',
     types: ['Poison'],
@@ -573,6 +613,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   nidorina: {
+    gen: 'I',
     num: 30,
     species: 'Nidorina',
     types: ['Poison'],
@@ -588,6 +629,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   nidoqueen: {
+    gen: 'I',
     num: 31,
     species: 'Nidoqueen',
     types: ['Poison', 'Ground'],
@@ -602,6 +644,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   nidoranm: {
+    gen: 'I',
     num: 32,
     species: 'Nidoran-M',
     types: ['Poison'],
@@ -615,6 +658,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   nidorino: {
+    gen: 'I',
     num: 33,
     species: 'Nidorino',
     types: ['Poison'],
@@ -630,6 +674,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   nidoking: {
+    gen: 'I',
     num: 34,
     species: 'Nidoking',
     types: ['Poison', 'Ground'],
@@ -644,6 +689,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   clefairy: {
+    gen: 'I',
     num: 35,
     species: 'Clefairy',
     types: ['Fairy'],
@@ -659,6 +705,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   clefable: {
+    gen: 'I',
     num: 36,
     species: 'Clefable',
     types: ['Fairy'],
@@ -673,6 +720,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   vulpix: {
+    gen: 'I',
     num: 37,
     species: 'Vulpix',
     types: ['Fire'],
@@ -687,6 +735,7 @@ exports.BattlePokedex = {
     otherFormes: ['vulpixalola']
   },
   vulpixalola: {
+    gen: 'I',
     num: 37,
     species: 'Vulpix-Alola',
     baseSpecies: 'Vulpix',
@@ -704,6 +753,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   ninetales: {
+    gen: 'I',
     num: 38,
     species: 'Ninetales',
     types: ['Fire'],
@@ -719,6 +769,7 @@ exports.BattlePokedex = {
     otherFormes: ['ninetalesalola']
   },
   ninetalesalola: {
+    gen: 'I',
     num: 38,
     species: 'Ninetales-Alola',
     baseSpecies: 'Ninetales',
@@ -737,6 +788,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   jigglypuff: {
+    gen: 'I',
     num: 39,
     species: 'Jigglypuff',
     types: ['Normal', 'Fairy'],
@@ -752,6 +804,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   wigglytuff: {
+    gen: 'I',
     num: 40,
     species: 'Wigglytuff',
     types: ['Normal', 'Fairy'],
@@ -766,6 +819,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   zubat: {
+    gen: 'I',
     num: 41,
     species: 'Zubat',
     types: ['Poison', 'Flying'],
@@ -778,6 +832,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   golbat: {
+    gen: 'I',
     num: 42,
     species: 'Golbat',
     types: ['Poison', 'Flying'],
@@ -792,6 +847,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   oddish: {
+    gen: 'I',
     num: 43,
     species: 'Oddish',
     types: ['Grass', 'Poison'],
@@ -804,6 +860,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   gloom: {
+    gen: 'I',
     num: 44,
     species: 'Gloom',
     types: ['Grass', 'Poison'],
@@ -818,6 +875,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   vileplume: {
+    gen: 'I',
     num: 45,
     species: 'Vileplume',
     types: ['Grass', 'Poison'],
@@ -831,6 +889,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   paras: {
+    gen: 'I',
     num: 46,
     species: 'Paras',
     types: ['Bug', 'Grass'],
@@ -843,6 +902,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Grass']
   },
   parasect: {
+    gen: 'I',
     num: 47,
     species: 'Parasect',
     types: ['Bug', 'Grass'],
@@ -856,6 +916,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Grass']
   },
   venonat: {
+    gen: 'I',
     num: 48,
     species: 'Venonat',
     types: ['Bug', 'Poison'],
@@ -868,6 +929,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   venomoth: {
+    gen: 'I',
     num: 49,
     species: 'Venomoth',
     types: ['Bug', 'Poison'],
@@ -881,6 +943,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   diglett: {
+    gen: 'I',
     num: 50,
     species: 'Diglett',
     types: ['Ground'],
@@ -894,6 +957,7 @@ exports.BattlePokedex = {
     otherFormes: ['diglettalola']
   },
   diglettalola: {
+    gen: 'I',
     num: 50,
     species: 'Diglett-Alola',
     baseSpecies: 'Diglett',
@@ -910,6 +974,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   dugtrio: {
+    gen: 'I',
     num: 51,
     species: 'Dugtrio',
     types: ['Ground'],
@@ -924,6 +989,7 @@ exports.BattlePokedex = {
     otherFormes: ['dugtrioalola']
   },
   dugtrioalola: {
+    gen: 'I',
     num: 51,
     species: 'Dugtrio-Alola',
     baseSpecies: 'Dugtrio',
@@ -941,6 +1007,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   meowth: {
+    gen: 'I',
     num: 52,
     species: 'Meowth',
     types: ['Normal'],
@@ -954,6 +1021,7 @@ exports.BattlePokedex = {
     otherFormes: ['meowthalola']
   },
   meowthalola: {
+    gen: 'I',
     num: 52,
     species: 'Meowth-Alola',
     baseSpecies: 'Meowth',
@@ -970,6 +1038,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   persian: {
+    gen: 'I',
     num: 53,
     species: 'Persian',
     types: ['Normal'],
@@ -984,6 +1053,7 @@ exports.BattlePokedex = {
     otherFormes: ['persianalola']
   },
   persianalola: {
+    gen: 'I',
     num: 53,
     species: 'Persian-Alola',
     baseSpecies: 'Persian',
@@ -1001,6 +1071,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   psyduck: {
+    gen: 'I',
     num: 54,
     species: 'Psyduck',
     types: ['Water'],
@@ -1013,6 +1084,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   golduck: {
+    gen: 'I',
     num: 55,
     species: 'Golduck',
     types: ['Water'],
@@ -1026,6 +1098,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   mankey: {
+    gen: 'I',
     num: 56,
     species: 'Mankey',
     types: ['Fighting'],
@@ -1038,6 +1111,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   primeape: {
+    gen: 'I',
     num: 57,
     species: 'Primeape',
     types: ['Fighting'],
@@ -1051,6 +1125,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   growlithe: {
+    gen: 'I',
     num: 58,
     species: 'Growlithe',
     types: ['Fire'],
@@ -1064,6 +1139,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   arcanine: {
+    gen: 'I',
     num: 59,
     species: 'Arcanine',
     types: ['Fire'],
@@ -1078,6 +1154,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   poliwag: {
+    gen: 'I',
     num: 60,
     species: 'Poliwag',
     types: ['Water'],
@@ -1090,6 +1167,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   poliwhirl: {
+    gen: 'I',
     num: 61,
     species: 'Poliwhirl',
     types: ['Water'],
@@ -1104,6 +1182,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   poliwrath: {
+    gen: 'I',
     num: 62,
     species: 'Poliwrath',
     types: ['Water', 'Fighting'],
@@ -1117,6 +1196,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   abra: {
+    gen: 'I',
     num: 63,
     species: 'Abra',
     types: ['Psychic'],
@@ -1130,6 +1210,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   kadabra: {
+    gen: 'I',
     num: 64,
     species: 'Kadabra',
     types: ['Psychic'],
@@ -1145,6 +1226,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   alakazam: {
+    gen: 'I',
     num: 65,
     species: 'Alakazam',
     types: ['Psychic'],
@@ -1160,6 +1242,7 @@ exports.BattlePokedex = {
     otherFormes: ['alakazammega']
   },
   alakazammega: {
+    gen: 'I',
     num: 65,
     species: 'Alakazam-Mega',
     baseSpecies: 'Alakazam',
@@ -1176,6 +1259,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   machop: {
+    gen: 'I',
     num: 66,
     species: 'Machop',
     types: ['Fighting'],
@@ -1189,6 +1273,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   machoke: {
+    gen: 'I',
     num: 67,
     species: 'Machoke',
     types: ['Fighting'],
@@ -1204,6 +1289,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   machamp: {
+    gen: 'I',
     num: 68,
     species: 'Machamp',
     types: ['Fighting'],
@@ -1218,6 +1304,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   bellsprout: {
+    gen: 'I',
     num: 69,
     species: 'Bellsprout',
     types: ['Grass', 'Poison'],
@@ -1230,6 +1317,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   weepinbell: {
+    gen: 'I',
     num: 70,
     species: 'Weepinbell',
     types: ['Grass', 'Poison'],
@@ -1244,6 +1332,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   victreebel: {
+    gen: 'I',
     num: 71,
     species: 'Victreebel',
     types: ['Grass', 'Poison'],
@@ -1257,6 +1346,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   tentacool: {
+    gen: 'I',
     num: 72,
     species: 'Tentacool',
     types: ['Water', 'Poison'],
@@ -1269,6 +1359,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   tentacruel: {
+    gen: 'I',
     num: 73,
     species: 'Tentacruel',
     types: ['Water', 'Poison'],
@@ -1282,6 +1373,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   geodude: {
+    gen: 'I',
     num: 74,
     species: 'Geodude',
     types: ['Rock', 'Ground'],
@@ -1295,6 +1387,7 @@ exports.BattlePokedex = {
     otherFormes: ['geodudealola']
   },
   geodudealola: {
+    gen: 'I',
     num: 74,
     species: 'Geodude-Alola',
     baseSpecies: 'Geodude',
@@ -1311,6 +1404,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   graveler: {
+    gen: 'I',
     num: 75,
     species: 'Graveler',
     types: ['Rock', 'Ground'],
@@ -1326,6 +1420,7 @@ exports.BattlePokedex = {
     otherFormes: ['graveleralola']
   },
   graveleralola: {
+    gen: 'I',
     num: 75,
     species: 'Graveler-Alola',
     baseSpecies: 'Graveler',
@@ -1344,6 +1439,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   golem: {
+    gen: 'I',
     num: 76,
     species: 'Golem',
     types: ['Rock', 'Ground'],
@@ -1358,6 +1454,7 @@ exports.BattlePokedex = {
     otherFormes: ['golemalola']
   },
   golemalola: {
+    gen: 'I',
     num: 76,
     species: 'Golem-Alola',
     baseSpecies: 'Golem',
@@ -1375,6 +1472,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   ponyta: {
+    gen: 'I',
     num: 77,
     species: 'Ponyta',
     types: ['Fire'],
@@ -1387,6 +1485,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   rapidash: {
+    gen: 'I',
     num: 78,
     species: 'Rapidash',
     types: ['Fire'],
@@ -1400,6 +1499,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   slowpoke: {
+    gen: 'I',
     num: 79,
     species: 'Slowpoke',
     types: ['Water', 'Psychic'],
@@ -1412,6 +1512,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   slowbro: {
+    gen: 'I',
     num: 80,
     species: 'Slowbro',
     types: ['Water', 'Psychic'],
@@ -1426,6 +1527,7 @@ exports.BattlePokedex = {
     otherFormes: ['slowbromega']
   },
   slowbromega: {
+    gen: 'I',
     num: 80,
     species: 'Slowbro-Mega',
     baseSpecies: 'Slowbro',
@@ -1441,6 +1543,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   magnemite: {
+    gen: 'I',
     num: 81,
     species: 'Magnemite',
     types: ['Electric', 'Steel'],
@@ -1454,6 +1557,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   magneton: {
+    gen: 'I',
     num: 82,
     species: 'Magneton',
     types: ['Electric', 'Steel'],
@@ -1469,6 +1573,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   farfetchd: {
+    gen: 'I',
     num: 83,
     species: 'Farfetch\'d',
     types: ['Normal', 'Flying'],
@@ -1480,6 +1585,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Field']
   },
   doduo: {
+    gen: 'I',
     num: 84,
     species: 'Doduo',
     types: ['Normal', 'Flying'],
@@ -1492,6 +1598,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   dodrio: {
+    gen: 'I',
     num: 85,
     species: 'Dodrio',
     types: ['Normal', 'Flying'],
@@ -1505,6 +1612,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   seel: {
+    gen: 'I',
     num: 86,
     species: 'Seel',
     types: ['Water'],
@@ -1517,6 +1625,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   dewgong: {
+    gen: 'I',
     num: 87,
     species: 'Dewgong',
     types: ['Water', 'Ice'],
@@ -1530,6 +1639,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   grimer: {
+    gen: 'I',
     num: 88,
     species: 'Grimer',
     types: ['Poison'],
@@ -1543,6 +1653,7 @@ exports.BattlePokedex = {
     otherFormes: ['grimeralola']
   },
   grimeralola: {
+    gen: 'I',
     num: 88,
     species: 'Grimer-Alola',
     baseSpecies: 'Grimer',
@@ -1559,6 +1670,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   muk: {
+    gen: 'I',
     num: 89,
     species: 'Muk',
     types: ['Poison'],
@@ -1573,6 +1685,7 @@ exports.BattlePokedex = {
     otherFormes: ['mukalola']
   },
   mukalola: {
+    gen: 'I',
     num: 89,
     species: 'Muk-Alola',
     baseSpecies: 'Muk',
@@ -1590,6 +1703,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   shellder: {
+    gen: 'I',
     num: 90,
     species: 'Shellder',
     types: ['Water'],
@@ -1602,6 +1716,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   cloyster: {
+    gen: 'I',
     num: 91,
     species: 'Cloyster',
     types: ['Water', 'Ice'],
@@ -1615,6 +1730,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   gastly: {
+    gen: 'I',
     num: 92,
     species: 'Gastly',
     types: ['Ghost', 'Poison'],
@@ -1627,6 +1743,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   haunter: {
+    gen: 'I',
     num: 93,
     species: 'Haunter',
     types: ['Ghost', 'Poison'],
@@ -1641,6 +1758,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   gengar: {
+    gen: 'I',
     num: 94,
     species: 'Gengar',
     types: ['Ghost', 'Poison'],
@@ -1655,6 +1773,7 @@ exports.BattlePokedex = {
     otherFormes: ['gengarmega']
   },
   gengarmega: {
+    gen: 'I',
     num: 94,
     species: 'Gengar-Mega',
     baseSpecies: 'Gengar',
@@ -1670,6 +1789,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   onix: {
+    gen: 'I',
     num: 95,
     species: 'Onix',
     types: ['Rock', 'Ground'],
@@ -1682,6 +1802,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   drowzee: {
+    gen: 'I',
     num: 96,
     species: 'Drowzee',
     types: ['Psychic'],
@@ -1694,6 +1815,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   hypno: {
+    gen: 'I',
     num: 97,
     species: 'Hypno',
     types: ['Psychic'],
@@ -1707,6 +1829,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   krabby: {
+    gen: 'I',
     num: 98,
     species: 'Krabby',
     types: ['Water'],
@@ -1719,6 +1842,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   kingler: {
+    gen: 'I',
     num: 99,
     species: 'Kingler',
     types: ['Water'],
@@ -1732,6 +1856,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   voltorb: {
+    gen: 'I',
     num: 100,
     species: 'Voltorb',
     types: ['Electric'],
@@ -1745,6 +1870,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   electrode: {
+    gen: 'I',
     num: 101,
     species: 'Electrode',
     types: ['Electric'],
@@ -1759,6 +1885,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   exeggcute: {
+    gen: 'I',
     num: 102,
     species: 'Exeggcute',
     types: ['Grass', 'Psychic'],
@@ -1771,6 +1898,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   exeggutor: {
+    gen: 'I',
     num: 103,
     species: 'Exeggutor',
     types: ['Grass', 'Psychic'],
@@ -1785,6 +1913,7 @@ exports.BattlePokedex = {
     otherFormes: ['exeggutoralola']
   },
   exeggutoralola: {
+    gen: 'I',
     num: 103,
     species: 'Exeggutor-Alola',
     baseSpecies: 'Exeggutor',
@@ -1802,6 +1931,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   cubone: {
+    gen: 'I',
     num: 104,
     species: 'Cubone',
     types: ['Ground'],
@@ -1814,6 +1944,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   marowak: {
+    gen: 'I',
     num: 105,
     species: 'Marowak',
     types: ['Ground'],
@@ -1828,6 +1959,7 @@ exports.BattlePokedex = {
     otherFormes: ['marowakalola']
   },
   marowakalola: {
+    gen: 'I',
     num: 105,
     species: 'Marowak-Alola',
     baseSpecies: 'Marowak',
@@ -1845,6 +1977,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   hitmonlee: {
+    gen: 'I',
     num: 106,
     species: 'Hitmonlee',
     types: ['Fighting'],
@@ -1859,6 +1992,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   hitmonchan: {
+    gen: 'I',
     num: 107,
     species: 'Hitmonchan',
     types: ['Fighting'],
@@ -1873,6 +2007,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   lickitung: {
+    gen: 'I',
     num: 108,
     species: 'Lickitung',
     types: ['Normal'],
@@ -1885,6 +2020,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   koffing: {
+    gen: 'I',
     num: 109,
     species: 'Koffing',
     types: ['Poison'],
@@ -1897,6 +2033,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   weezing: {
+    gen: 'I',
     num: 110,
     species: 'Weezing',
     types: ['Poison'],
@@ -1910,6 +2047,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   rhyhorn: {
+    gen: 'I',
     num: 111,
     species: 'Rhyhorn',
     types: ['Ground', 'Rock'],
@@ -1922,6 +2060,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   rhydon: {
+    gen: 'I',
     num: 112,
     species: 'Rhydon',
     types: ['Ground', 'Rock'],
@@ -1936,6 +2075,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   chansey: {
+    gen: 'I',
     num: 113,
     species: 'Chansey',
     types: ['Normal'],
@@ -1951,6 +2091,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   tangela: {
+    gen: 'I',
     num: 114,
     species: 'Tangela',
     types: ['Grass'],
@@ -1963,6 +2104,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   kangaskhan: {
+    gen: 'I',
     num: 115,
     species: 'Kangaskhan',
     types: ['Normal'],
@@ -1976,6 +2118,7 @@ exports.BattlePokedex = {
     otherFormes: ['kangaskhanmega']
   },
   kangaskhanmega: {
+    gen: 'I',
     num: 115,
     species: 'Kangaskhan-Mega',
     baseSpecies: 'Kangaskhan',
@@ -1992,6 +2135,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   horsea: {
+    gen: 'I',
     num: 116,
     species: 'Horsea',
     types: ['Water'],
@@ -2004,6 +2148,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   seadra: {
+    gen: 'I',
     num: 117,
     species: 'Seadra',
     types: ['Water'],
@@ -2018,6 +2163,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   goldeen: {
+    gen: 'I',
     num: 118,
     species: 'Goldeen',
     types: ['Water'],
@@ -2030,6 +2176,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   seaking: {
+    gen: 'I',
     num: 119,
     species: 'Seaking',
     types: ['Water'],
@@ -2043,6 +2190,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   staryu: {
+    gen: 'I',
     num: 120,
     species: 'Staryu',
     types: ['Water'],
@@ -2056,6 +2204,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   starmie: {
+    gen: 'I',
     num: 121,
     species: 'Starmie',
     types: ['Water', 'Psychic'],
@@ -2070,6 +2219,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   mrmime: {
+    gen: 'I',
     num: 122,
     species: 'Mr. Mime',
     types: ['Psychic', 'Fairy'],
@@ -2084,6 +2234,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   scyther: {
+    gen: 'I',
     num: 123,
     species: 'Scyther',
     types: ['Bug', 'Flying'],
@@ -2096,6 +2247,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   jynx: {
+    gen: 'I',
     num: 124,
     species: 'Jynx',
     types: ['Ice', 'Psychic'],
@@ -2110,6 +2262,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   electabuzz: {
+    gen: 'I',
     num: 125,
     species: 'Electabuzz',
     types: ['Electric'],
@@ -2125,6 +2278,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   magmar: {
+    gen: 'I',
     num: 126,
     species: 'Magmar',
     types: ['Fire'],
@@ -2140,6 +2294,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   pinsir: {
+    gen: 'I',
     num: 127,
     species: 'Pinsir',
     types: ['Bug'],
@@ -2152,6 +2307,7 @@ exports.BattlePokedex = {
     otherFormes: ['pinsirmega']
   },
   pinsirmega: {
+    gen: 'I',
     num: 127,
     species: 'Pinsir-Mega',
     baseSpecies: 'Pinsir',
@@ -2167,6 +2323,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   tauros: {
+    gen: 'I',
     num: 128,
     species: 'Tauros',
     types: ['Normal'],
@@ -2179,6 +2336,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   magikarp: {
+    gen: 'I',
     num: 129,
     species: 'Magikarp',
     types: ['Water'],
@@ -2191,6 +2349,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2', 'Dragon']
   },
   gyarados: {
+    gen: 'I',
     num: 130,
     species: 'Gyarados',
     types: ['Water', 'Flying'],
@@ -2205,6 +2364,7 @@ exports.BattlePokedex = {
     otherFormes: ['gyaradosmega']
   },
   gyaradosmega: {
+    gen: 'I',
     num: 130,
     species: 'Gyarados-Mega',
     baseSpecies: 'Gyarados',
@@ -2220,6 +2380,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2', 'Dragon']
   },
   lapras: {
+    gen: 'I',
     num: 131,
     species: 'Lapras',
     types: ['Water', 'Ice'],
@@ -2231,6 +2392,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   ditto: {
+    gen: 'I',
     num: 132,
     species: 'Ditto',
     types: ['Normal'],
@@ -2243,6 +2405,7 @@ exports.BattlePokedex = {
     eggGroups: ['Ditto']
   },
   eevee: {
+    gen: 'I',
     num: 133,
     species: 'Eevee',
     types: ['Normal'],
@@ -2256,6 +2419,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   vaporeon: {
+    gen: 'I',
     num: 134,
     species: 'Vaporeon',
     types: ['Water'],
@@ -2270,6 +2434,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   jolteon: {
+    gen: 'I',
     num: 135,
     species: 'Jolteon',
     types: ['Electric'],
@@ -2284,6 +2449,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   flareon: {
+    gen: 'I',
     num: 136,
     species: 'Flareon',
     types: ['Fire'],
@@ -2298,6 +2464,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   porygon: {
+    gen: 'I',
     num: 137,
     species: 'Porygon',
     types: ['Normal'],
@@ -2311,6 +2478,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   omanyte: {
+    gen: 'I',
     num: 138,
     species: 'Omanyte',
     types: ['Rock', 'Water'],
@@ -2324,6 +2492,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   omastar: {
+    gen: 'I',
     num: 139,
     species: 'Omastar',
     types: ['Rock', 'Water'],
@@ -2338,6 +2507,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   kabuto: {
+    gen: 'I',
     num: 140,
     species: 'Kabuto',
     types: ['Rock', 'Water'],
@@ -2351,6 +2521,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   kabutops: {
+    gen: 'I',
     num: 141,
     species: 'Kabutops',
     types: ['Rock', 'Water'],
@@ -2365,6 +2536,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   aerodactyl: {
+    gen: 'I',
     num: 142,
     species: 'Aerodactyl',
     types: ['Rock', 'Flying'],
@@ -2378,6 +2550,7 @@ exports.BattlePokedex = {
     otherFormes: ['aerodactylmega']
   },
   aerodactylmega: {
+    gen: 'I',
     num: 142,
     species: 'Aerodactyl-Mega',
     baseSpecies: 'Aerodactyl',
@@ -2394,6 +2567,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   snorlax: {
+    gen: 'I',
     num: 143,
     species: 'Snorlax',
     types: ['Normal'],
@@ -2408,6 +2582,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   articuno: {
+    gen: 'I',
     num: 144,
     species: 'Articuno',
     types: ['Ice', 'Flying'],
@@ -2420,6 +2595,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   zapdos: {
+    gen: 'I',
     num: 145,
     species: 'Zapdos',
     types: ['Electric', 'Flying'],
@@ -2432,6 +2608,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   moltres: {
+    gen: 'I',
     num: 146,
     species: 'Moltres',
     types: ['Fire', 'Flying'],
@@ -2444,6 +2621,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   dratini: {
+    gen: 'I',
     num: 147,
     species: 'Dratini',
     types: ['Dragon'],
@@ -2456,6 +2634,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   dragonair: {
+    gen: 'I',
     num: 148,
     species: 'Dragonair',
     types: ['Dragon'],
@@ -2470,6 +2649,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   dragonite: {
+    gen: 'I',
     num: 149,
     species: 'Dragonite',
     types: ['Dragon', 'Flying'],
@@ -2483,6 +2663,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   mewtwo: {
+    gen: 'I',
     num: 150,
     species: 'Mewtwo',
     types: ['Psychic'],
@@ -2496,6 +2677,7 @@ exports.BattlePokedex = {
     otherFormes: ['mewtwomegax', 'mewtwomegay']
   },
   mewtwomegax: {
+    gen: 'I',
     num: 150,
     species: 'Mewtwo-Mega-X',
     baseSpecies: 'Mewtwo',
@@ -2512,6 +2694,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   mewtwomegay: {
+    gen: 'I',
     num: 150,
     species: 'Mewtwo-Mega-Y',
     baseSpecies: 'Mewtwo',
@@ -2528,6 +2711,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   mew: {
+    gen: 'I',
     num: 151,
     species: 'Mew',
     types: ['Psychic'],
@@ -2540,6 +2724,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   chikorita: {
+    gen: 'II',
     num: 152,
     species: 'Chikorita',
     types: ['Grass'],
@@ -2553,6 +2738,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   bayleef: {
+    gen: 'II',
     num: 153,
     species: 'Bayleef',
     types: ['Grass'],
@@ -2568,6 +2754,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   meganium: {
+    gen: 'II',
     num: 154,
     species: 'Meganium',
     types: ['Grass'],
@@ -2582,6 +2769,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   cyndaquil: {
+    gen: 'II',
     num: 155,
     species: 'Cyndaquil',
     types: ['Fire'],
@@ -2595,6 +2783,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   quilava: {
+    gen: 'II',
     num: 156,
     species: 'Quilava',
     types: ['Fire'],
@@ -2610,6 +2799,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   typhlosion: {
+    gen: 'II',
     num: 157,
     species: 'Typhlosion',
     types: ['Fire'],
@@ -2624,6 +2814,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   totodile: {
+    gen: 'II',
     num: 158,
     species: 'Totodile',
     types: ['Water'],
@@ -2637,6 +2828,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   croconaw: {
+    gen: 'II',
     num: 159,
     species: 'Croconaw',
     types: ['Water'],
@@ -2652,6 +2844,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   feraligatr: {
+    gen: 'II',
     num: 160,
     species: 'Feraligatr',
     types: ['Water'],
@@ -2666,6 +2859,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   sentret: {
+    gen: 'II',
     num: 161,
     species: 'Sentret',
     types: ['Normal'],
@@ -2678,6 +2872,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   furret: {
+    gen: 'II',
     num: 162,
     species: 'Furret',
     types: ['Normal'],
@@ -2691,6 +2886,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   hoothoot: {
+    gen: 'II',
     num: 163,
     species: 'Hoothoot',
     types: ['Normal', 'Flying'],
@@ -2703,6 +2899,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   noctowl: {
+    gen: 'II',
     num: 164,
     species: 'Noctowl',
     types: ['Normal', 'Flying'],
@@ -2716,6 +2913,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   ledyba: {
+    gen: 'II',
     num: 165,
     species: 'Ledyba',
     types: ['Bug', 'Flying'],
@@ -2728,6 +2926,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   ledian: {
+    gen: 'II',
     num: 166,
     species: 'Ledian',
     types: ['Bug', 'Flying'],
@@ -2741,6 +2940,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   spinarak: {
+    gen: 'II',
     num: 167,
     species: 'Spinarak',
     types: ['Bug', 'Poison'],
@@ -2753,6 +2953,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   ariados: {
+    gen: 'II',
     num: 168,
     species: 'Ariados',
     types: ['Bug', 'Poison'],
@@ -2766,6 +2967,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   crobat: {
+    gen: 'II',
     num: 169,
     species: 'Crobat',
     types: ['Poison', 'Flying'],
@@ -2779,6 +2981,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   chinchou: {
+    gen: 'II',
     num: 170,
     species: 'Chinchou',
     types: ['Water', 'Electric'],
@@ -2791,6 +2994,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   lanturn: {
+    gen: 'II',
     num: 171,
     species: 'Lanturn',
     types: ['Water', 'Electric'],
@@ -2804,6 +3008,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   pichu: {
+    gen: 'II',
     num: 172,
     species: 'Pichu',
     types: ['Electric'],
@@ -2817,6 +3022,7 @@ exports.BattlePokedex = {
     otherFormes: ['pichuspikyeared']
   },
   cleffa: {
+    gen: 'II',
     num: 173,
     species: 'Cleffa',
     types: ['Fairy'],
@@ -2830,6 +3036,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   igglybuff: {
+    gen: 'II',
     num: 174,
     species: 'Igglybuff',
     types: ['Normal', 'Fairy'],
@@ -2843,6 +3050,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   togepi: {
+    gen: 'II',
     num: 175,
     species: 'Togepi',
     types: ['Fairy'],
@@ -2856,6 +3064,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   togetic: {
+    gen: 'II',
     num: 176,
     species: 'Togetic',
     types: ['Fairy', 'Flying'],
@@ -2871,6 +3080,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Fairy']
   },
   natu: {
+    gen: 'II',
     num: 177,
     species: 'Natu',
     types: ['Psychic', 'Flying'],
@@ -2883,6 +3093,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   xatu: {
+    gen: 'II',
     num: 178,
     species: 'Xatu',
     types: ['Psychic', 'Flying'],
@@ -2896,6 +3107,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   mareep: {
+    gen: 'II',
     num: 179,
     species: 'Mareep',
     types: ['Electric'],
@@ -2908,6 +3120,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   flaaffy: {
+    gen: 'II',
     num: 180,
     species: 'Flaaffy',
     types: ['Electric'],
@@ -2922,6 +3135,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   ampharos: {
+    gen: 'II',
     num: 181,
     species: 'Ampharos',
     types: ['Electric'],
@@ -2936,6 +3150,7 @@ exports.BattlePokedex = {
     otherFormes: ['ampharosmega']
   },
   ampharosmega: {
+    gen: 'II',
     num: 181,
     species: 'Ampharos-Mega',
     baseSpecies: 'Ampharos',
@@ -2951,6 +3166,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   bellossom: {
+    gen: 'II',
     num: 182,
     species: 'Bellossom',
     types: ['Grass'],
@@ -2964,6 +3180,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   marill: {
+    gen: 'II',
     num: 183,
     species: 'Marill',
     types: ['Water', 'Fairy'],
@@ -2978,6 +3195,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Fairy']
   },
   azumarill: {
+    gen: 'II',
     num: 184,
     species: 'Azumarill',
     types: ['Water', 'Fairy'],
@@ -2991,6 +3209,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Fairy']
   },
   sudowoodo: {
+    gen: 'II',
     num: 185,
     species: 'Sudowoodo',
     types: ['Rock'],
@@ -3005,6 +3224,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   politoed: {
+    gen: 'II',
     num: 186,
     species: 'Politoed',
     types: ['Water'],
@@ -3018,6 +3238,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   hoppip: {
+    gen: 'II',
     num: 187,
     species: 'Hoppip',
     types: ['Grass', 'Flying'],
@@ -3030,6 +3251,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   skiploom: {
+    gen: 'II',
     num: 188,
     species: 'Skiploom',
     types: ['Grass', 'Flying'],
@@ -3044,6 +3266,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   jumpluff: {
+    gen: 'II',
     num: 189,
     species: 'Jumpluff',
     types: ['Grass', 'Flying'],
@@ -3057,6 +3280,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   aipom: {
+    gen: 'II',
     num: 190,
     species: 'Aipom',
     types: ['Normal'],
@@ -3069,6 +3293,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   sunkern: {
+    gen: 'II',
     num: 191,
     species: 'Sunkern',
     types: ['Grass'],
@@ -3081,6 +3306,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   sunflora: {
+    gen: 'II',
     num: 192,
     species: 'Sunflora',
     types: ['Grass'],
@@ -3094,6 +3320,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   yanma: {
+    gen: 'II',
     num: 193,
     species: 'Yanma',
     types: ['Bug', 'Flying'],
@@ -3106,6 +3333,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   wooper: {
+    gen: 'II',
     num: 194,
     species: 'Wooper',
     types: ['Water', 'Ground'],
@@ -3118,6 +3346,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   quagsire: {
+    gen: 'II',
     num: 195,
     species: 'Quagsire',
     types: ['Water', 'Ground'],
@@ -3131,6 +3360,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   espeon: {
+    gen: 'II',
     num: 196,
     species: 'Espeon',
     types: ['Psychic'],
@@ -3145,6 +3375,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   umbreon: {
+    gen: 'II',
     num: 197,
     species: 'Umbreon',
     types: ['Dark'],
@@ -3159,6 +3390,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   murkrow: {
+    gen: 'II',
     num: 198,
     species: 'Murkrow',
     types: ['Dark', 'Flying'],
@@ -3171,6 +3403,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   slowking: {
+    gen: 'II',
     num: 199,
     species: 'Slowking',
     types: ['Water', 'Psychic'],
@@ -3184,6 +3417,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   misdreavus: {
+    gen: 'II',
     num: 200,
     species: 'Misdreavus',
     types: ['Ghost'],
@@ -3196,6 +3430,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   unown: {
+    gen: 'II',
     num: 201,
     species: 'Unown',
     baseForme: 'A',
@@ -3210,6 +3445,7 @@ exports.BattlePokedex = {
     otherForms: ['unownb', 'unownc', 'unownd', 'unowne', 'unownf', 'unowng', 'unownh', 'unowni', 'unownj', 'unownk', 'unownl', 'unownm', 'unownn', 'unowno', 'unownp', 'unownq', 'unownr', 'unowns', 'unownt', 'unownu', 'unownv', 'unownw', 'unownx', 'unowny', 'unownz', 'unownexclamation', 'unownquestion']
   },
   wobbuffet: {
+    gen: 'II',
     num: 202,
     species: 'Wobbuffet',
     types: ['Psychic'],
@@ -3223,6 +3459,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   girafarig: {
+    gen: 'II',
     num: 203,
     species: 'Girafarig',
     types: ['Normal', 'Psychic'],
@@ -3234,6 +3471,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pineco: {
+    gen: 'II',
     num: 204,
     species: 'Pineco',
     types: ['Bug'],
@@ -3246,6 +3484,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   forretress: {
+    gen: 'II',
     num: 205,
     species: 'Forretress',
     types: ['Bug', 'Steel'],
@@ -3259,6 +3498,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   dunsparce: {
+    gen: 'II',
     num: 206,
     species: 'Dunsparce',
     types: ['Normal'],
@@ -3270,6 +3510,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   gligar: {
+    gen: 'II',
     num: 207,
     species: 'Gligar',
     types: ['Ground', 'Flying'],
@@ -3282,6 +3523,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   steelix: {
+    gen: 'II',
     num: 208,
     species: 'Steelix',
     types: ['Steel', 'Ground'],
@@ -3296,6 +3538,7 @@ exports.BattlePokedex = {
     otherFormes: ['steelixmega']
   },
   steelixmega: {
+    gen: 'II',
     num: 208,
     species: 'Steelix-Mega',
     baseSpecies: 'Steelix',
@@ -3311,6 +3554,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   snubbull: {
+    gen: 'II',
     num: 209,
     species: 'Snubbull',
     types: ['Fairy'],
@@ -3324,6 +3568,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   granbull: {
+    gen: 'II',
     num: 210,
     species: 'Granbull',
     types: ['Fairy'],
@@ -3338,6 +3583,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   qwilfish: {
+    gen: 'II',
     num: 211,
     species: 'Qwilfish',
     types: ['Water', 'Poison'],
@@ -3349,6 +3595,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   scizor: {
+    gen: 'II',
     num: 212,
     species: 'Scizor',
     types: ['Bug', 'Steel'],
@@ -3363,6 +3610,7 @@ exports.BattlePokedex = {
     otherFormes: ['scizormega']
   },
   scizormega: {
+    gen: 'II',
     num: 212,
     species: 'Scizor-Mega',
     baseSpecies: 'Scizor',
@@ -3378,6 +3626,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   shuckle: {
+    gen: 'II',
     num: 213,
     species: 'Shuckle',
     types: ['Bug', 'Rock'],
@@ -3389,6 +3638,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   heracross: {
+    gen: 'II',
     num: 214,
     species: 'Heracross',
     types: ['Bug', 'Fighting'],
@@ -3401,6 +3651,7 @@ exports.BattlePokedex = {
     otherFormes: ['heracrossmega']
   },
   heracrossmega: {
+    gen: 'II',
     num: 214,
     species: 'Heracross-Mega',
     baseSpecies: 'Heracross',
@@ -3416,6 +3667,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   sneasel: {
+    gen: 'II',
     num: 215,
     species: 'Sneasel',
     types: ['Dark', 'Ice'],
@@ -3428,6 +3680,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   teddiursa: {
+    gen: 'II',
     num: 216,
     species: 'Teddiursa',
     types: ['Normal'],
@@ -3440,6 +3693,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   ursaring: {
+    gen: 'II',
     num: 217,
     species: 'Ursaring',
     types: ['Normal'],
@@ -3453,6 +3707,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   slugma: {
+    gen: 'II',
     num: 218,
     species: 'Slugma',
     types: ['Fire'],
@@ -3465,6 +3720,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   magcargo: {
+    gen: 'II',
     num: 219,
     species: 'Magcargo',
     types: ['Fire', 'Rock'],
@@ -3478,6 +3734,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   swinub: {
+    gen: 'II',
     num: 220,
     species: 'Swinub',
     types: ['Ice', 'Ground'],
@@ -3490,6 +3747,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   piloswine: {
+    gen: 'II',
     num: 221,
     species: 'Piloswine',
     types: ['Ice', 'Ground'],
@@ -3504,6 +3762,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   corsola: {
+    gen: 'II',
     num: 222,
     species: 'Corsola',
     types: ['Water', 'Rock'],
@@ -3516,6 +3775,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   remoraid: {
+    gen: 'II',
     num: 223,
     species: 'Remoraid',
     types: ['Water'],
@@ -3528,6 +3788,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   octillery: {
+    gen: 'II',
     num: 224,
     species: 'Octillery',
     types: ['Water'],
@@ -3541,6 +3802,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   delibird: {
+    gen: 'II',
     num: 225,
     species: 'Delibird',
     types: ['Ice', 'Flying'],
@@ -3552,6 +3814,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   mantine: {
+    gen: 'II',
     num: 226,
     species: 'Mantine',
     types: ['Water', 'Flying'],
@@ -3565,6 +3828,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   skarmory: {
+    gen: 'II',
     num: 227,
     species: 'Skarmory',
     types: ['Steel', 'Flying'],
@@ -3576,6 +3840,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   houndour: {
+    gen: 'II',
     num: 228,
     species: 'Houndour',
     types: ['Dark', 'Fire'],
@@ -3588,6 +3853,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   houndoom: {
+    gen: 'II',
     num: 229,
     species: 'Houndoom',
     types: ['Dark', 'Fire'],
@@ -3602,6 +3868,7 @@ exports.BattlePokedex = {
     otherFormes: ['houndoommega']
   },
   houndoommega: {
+    gen: 'II',
     num: 229,
     species: 'Houndoom-Mega',
     baseSpecies: 'Houndoom',
@@ -3617,6 +3884,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   kingdra: {
+    gen: 'II',
     num: 230,
     species: 'Kingdra',
     types: ['Water', 'Dragon'],
@@ -3630,6 +3898,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   phanpy: {
+    gen: 'II',
     num: 231,
     species: 'Phanpy',
     types: ['Ground'],
@@ -3642,6 +3911,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   donphan: {
+    gen: 'II',
     num: 232,
     species: 'Donphan',
     types: ['Ground'],
@@ -3655,6 +3925,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   porygon2: {
+    gen: 'II',
     num: 233,
     species: 'Porygon2',
     types: ['Normal'],
@@ -3670,6 +3941,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   stantler: {
+    gen: 'II',
     num: 234,
     species: 'Stantler',
     types: ['Normal'],
@@ -3681,6 +3953,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   smeargle: {
+    gen: 'II',
     num: 235,
     species: 'Smeargle',
     types: ['Normal'],
@@ -3692,18 +3965,8 @@ exports.BattlePokedex = {
     eggGroups: ['Field'],
     otherFormes: ['pokestarsmeargle']
   },
-  pokestarsmeargle: {
-    num: 235,
-    species: 'Pokestar Smeargle',
-    types: ['Normal'],
-    baseStats: {hp: 55, atk: 20, def: 35, spa: 20, spd: 45, spe: 75},
-    abilities: {0: 'Own Tempo', 1: 'Technician', H: 'Moody'},
-    heightm: 1.5,
-    weightkg: 61,
-    color: 'White',
-    eggGroups: ['Field']
-  },
   tyrogue: {
+    gen: 'II',
     num: 236,
     species: 'Tyrogue',
     types: ['Fighting'],
@@ -3717,6 +3980,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   hitmontop: {
+    gen: 'II',
     num: 237,
     species: 'Hitmontop',
     types: ['Fighting'],
@@ -3731,6 +3995,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   smoochum: {
+    gen: 'II',
     num: 238,
     species: 'Smoochum',
     types: ['Ice', 'Psychic'],
@@ -3744,6 +4009,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   elekid: {
+    gen: 'II',
     num: 239,
     species: 'Elekid',
     types: ['Electric'],
@@ -3757,6 +4023,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   magby: {
+    gen: 'II',
     num: 240,
     species: 'Magby',
     types: ['Fire'],
@@ -3770,6 +4037,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   miltank: {
+    gen: 'II',
     num: 241,
     species: 'Miltank',
     types: ['Normal'],
@@ -3782,6 +4050,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   blissey: {
+    gen: 'II',
     num: 242,
     species: 'Blissey',
     types: ['Normal'],
@@ -3796,6 +4065,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   raikou: {
+    gen: 'II',
     num: 243,
     species: 'Raikou',
     types: ['Electric'],
@@ -3808,6 +4078,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   entei: {
+    gen: 'II',
     num: 244,
     species: 'Entei',
     types: ['Fire'],
@@ -3820,6 +4091,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   suicune: {
+    gen: 'II',
     num: 245,
     species: 'Suicune',
     types: ['Water'],
@@ -3832,6 +4104,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   larvitar: {
+    gen: 'II',
     num: 246,
     species: 'Larvitar',
     types: ['Rock', 'Ground'],
@@ -3844,6 +4117,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   pupitar: {
+    gen: 'II',
     num: 247,
     species: 'Pupitar',
     types: ['Rock', 'Ground'],
@@ -3858,6 +4132,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   tyranitar: {
+    gen: 'II',
     num: 248,
     species: 'Tyranitar',
     types: ['Rock', 'Dark'],
@@ -3872,6 +4147,7 @@ exports.BattlePokedex = {
     otherFormes: ['tyranitarmega']
   },
   tyranitarmega: {
+    gen: 'II',
     num: 248,
     species: 'Tyranitar-Mega',
     baseSpecies: 'Tyranitar',
@@ -3887,6 +4163,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   lugia: {
+    gen: 'II',
     num: 249,
     species: 'Lugia',
     types: ['Psychic', 'Flying'],
@@ -3899,6 +4176,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   hooh: {
+    gen: 'II',
     num: 250,
     species: 'Ho-Oh',
     types: ['Fire', 'Flying'],
@@ -3911,6 +4189,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   celebi: {
+    gen: 'II',
     num: 251,
     species: 'Celebi',
     types: ['Psychic', 'Grass'],
@@ -3923,6 +4202,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   treecko: {
+    gen: 'III',
     num: 252,
     species: 'Treecko',
     types: ['Grass'],
@@ -3936,6 +4216,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   grovyle: {
+    gen: 'III',
     num: 253,
     species: 'Grovyle',
     types: ['Grass'],
@@ -3951,6 +4232,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   sceptile: {
+    gen: 'III',
     num: 254,
     species: 'Sceptile',
     types: ['Grass'],
@@ -3966,6 +4248,7 @@ exports.BattlePokedex = {
     otherFormes: ['sceptilemega']
   },
   sceptilemega: {
+    gen: 'III',
     num: 254,
     species: 'Sceptile-Mega',
     baseSpecies: 'Sceptile',
@@ -3982,6 +4265,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   torchic: {
+    gen: 'III',
     num: 255,
     species: 'Torchic',
     types: ['Fire'],
@@ -3995,6 +4279,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   combusken: {
+    gen: 'III',
     num: 256,
     species: 'Combusken',
     types: ['Fire', 'Fighting'],
@@ -4010,6 +4295,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   blaziken: {
+    gen: 'III',
     num: 257,
     species: 'Blaziken',
     types: ['Fire', 'Fighting'],
@@ -4025,6 +4311,7 @@ exports.BattlePokedex = {
     otherFormes: ['blazikenmega']
   },
   blazikenmega: {
+    gen: 'III',
     num: 257,
     species: 'Blaziken-Mega',
     baseSpecies: 'Blaziken',
@@ -4041,6 +4328,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   mudkip: {
+    gen: 'III',
     num: 258,
     species: 'Mudkip',
     types: ['Water'],
@@ -4054,6 +4342,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   marshtomp: {
+    gen: 'III',
     num: 259,
     species: 'Marshtomp',
     types: ['Water', 'Ground'],
@@ -4069,6 +4358,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   swampert: {
+    gen: 'III',
     num: 260,
     species: 'Swampert',
     types: ['Water', 'Ground'],
@@ -4084,6 +4374,7 @@ exports.BattlePokedex = {
     otherFormes: ['swampertmega']
   },
   swampertmega: {
+    gen: 'III',
     num: 260,
     species: 'Swampert-Mega',
     baseSpecies: 'Swampert',
@@ -4100,6 +4391,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Water 1']
   },
   poochyena: {
+    gen: 'III',
     num: 261,
     species: 'Poochyena',
     types: ['Dark'],
@@ -4112,6 +4404,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   mightyena: {
+    gen: 'III',
     num: 262,
     species: 'Mightyena',
     types: ['Dark'],
@@ -4125,6 +4418,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   zigzagoon: {
+    gen: 'III',
     num: 263,
     species: 'Zigzagoon',
     types: ['Normal'],
@@ -4137,6 +4431,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   linoone: {
+    gen: 'III',
     num: 264,
     species: 'Linoone',
     types: ['Normal'],
@@ -4150,6 +4445,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   wurmple: {
+    gen: 'III',
     num: 265,
     species: 'Wurmple',
     types: ['Bug'],
@@ -4162,6 +4458,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   silcoon: {
+    gen: 'III',
     num: 266,
     species: 'Silcoon',
     types: ['Bug'],
@@ -4176,6 +4473,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   beautifly: {
+    gen: 'III',
     num: 267,
     species: 'Beautifly',
     types: ['Bug', 'Flying'],
@@ -4189,6 +4487,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   cascoon: {
+    gen: 'III',
     num: 268,
     species: 'Cascoon',
     types: ['Bug'],
@@ -4203,6 +4502,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   dustox: {
+    gen: 'III',
     num: 269,
     species: 'Dustox',
     types: ['Bug', 'Poison'],
@@ -4216,6 +4516,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   lotad: {
+    gen: 'III',
     num: 270,
     species: 'Lotad',
     types: ['Water', 'Grass'],
@@ -4228,6 +4529,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Grass']
   },
   lombre: {
+    gen: 'III',
     num: 271,
     species: 'Lombre',
     types: ['Water', 'Grass'],
@@ -4242,6 +4544,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Grass']
   },
   ludicolo: {
+    gen: 'III',
     num: 272,
     species: 'Ludicolo',
     types: ['Water', 'Grass'],
@@ -4255,6 +4558,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Grass']
   },
   seedot: {
+    gen: 'III',
     num: 273,
     species: 'Seedot',
     types: ['Grass'],
@@ -4267,6 +4571,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   nuzleaf: {
+    gen: 'III',
     num: 274,
     species: 'Nuzleaf',
     types: ['Grass', 'Dark'],
@@ -4281,6 +4586,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   shiftry: {
+    gen: 'III',
     num: 275,
     species: 'Shiftry',
     types: ['Grass', 'Dark'],
@@ -4294,6 +4600,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   taillow: {
+    gen: 'III',
     num: 276,
     species: 'Taillow',
     types: ['Normal', 'Flying'],
@@ -4306,6 +4613,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   swellow: {
+    gen: 'III',
     num: 277,
     species: 'Swellow',
     types: ['Normal', 'Flying'],
@@ -4319,6 +4627,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   wingull: {
+    gen: 'III',
     num: 278,
     species: 'Wingull',
     types: ['Water', 'Flying'],
@@ -4331,6 +4640,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Flying']
   },
   pelipper: {
+    gen: 'III',
     num: 279,
     species: 'Pelipper',
     types: ['Water', 'Flying'],
@@ -4344,6 +4654,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Flying']
   },
   ralts: {
+    gen: 'III',
     num: 280,
     species: 'Ralts',
     types: ['Psychic', 'Fairy'],
@@ -4356,6 +4667,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   kirlia: {
+    gen: 'III',
     num: 281,
     species: 'Kirlia',
     types: ['Psychic', 'Fairy'],
@@ -4370,6 +4682,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   gardevoir: {
+    gen: 'III',
     num: 282,
     species: 'Gardevoir',
     types: ['Psychic', 'Fairy'],
@@ -4384,6 +4697,7 @@ exports.BattlePokedex = {
     otherFormes: ['gardevoirmega']
   },
   gardevoirmega: {
+    gen: 'III',
     num: 282,
     species: 'Gardevoir-Mega',
     baseSpecies: 'Gardevoir',
@@ -4399,6 +4713,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   surskit: {
+    gen: 'III',
     num: 283,
     species: 'Surskit',
     types: ['Bug', 'Water'],
@@ -4411,6 +4726,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Bug']
   },
   masquerain: {
+    gen: 'III',
     num: 284,
     species: 'Masquerain',
     types: ['Bug', 'Flying'],
@@ -4424,6 +4740,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Bug']
   },
   shroomish: {
+    gen: 'III',
     num: 285,
     species: 'Shroomish',
     types: ['Grass'],
@@ -4436,6 +4753,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   breloom: {
+    gen: 'III',
     num: 286,
     species: 'Breloom',
     types: ['Grass', 'Fighting'],
@@ -4449,6 +4767,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   slakoth: {
+    gen: 'III',
     num: 287,
     species: 'Slakoth',
     types: ['Normal'],
@@ -4461,6 +4780,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   vigoroth: {
+    gen: 'III',
     num: 288,
     species: 'Vigoroth',
     types: ['Normal'],
@@ -4475,6 +4795,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   slaking: {
+    gen: 'III',
     num: 289,
     species: 'Slaking',
     types: ['Normal'],
@@ -4488,6 +4809,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   nincada: {
+    gen: 'III',
     num: 290,
     species: 'Nincada',
     types: ['Bug', 'Ground'],
@@ -4500,6 +4822,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   ninjask: {
+    gen: 'III',
     num: 291,
     species: 'Ninjask',
     types: ['Bug', 'Flying'],
@@ -4513,6 +4836,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   shedinja: {
+    gen: 'III',
     num: 292,
     species: 'Shedinja',
     types: ['Bug', 'Ghost'],
@@ -4528,6 +4852,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   whismur: {
+    gen: 'III',
     num: 293,
     species: 'Whismur',
     types: ['Normal'],
@@ -4540,6 +4865,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   loudred: {
+    gen: 'III',
     num: 294,
     species: 'Loudred',
     types: ['Normal'],
@@ -4554,6 +4880,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   exploud: {
+    gen: 'III',
     num: 295,
     species: 'Exploud',
     types: ['Normal'],
@@ -4567,6 +4894,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   makuhita: {
+    gen: 'III',
     num: 296,
     species: 'Makuhita',
     types: ['Fighting'],
@@ -4580,6 +4908,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   hariyama: {
+    gen: 'III',
     num: 297,
     species: 'Hariyama',
     types: ['Fighting'],
@@ -4594,6 +4923,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   azurill: {
+    gen: 'III',
     num: 298,
     species: 'Azurill',
     types: ['Normal', 'Fairy'],
@@ -4607,6 +4937,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   nosepass: {
+    gen: 'III',
     num: 299,
     species: 'Nosepass',
     types: ['Rock'],
@@ -4619,6 +4950,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   skitty: {
+    gen: 'III',
     num: 300,
     species: 'Skitty',
     types: ['Normal'],
@@ -4632,6 +4964,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   delcatty: {
+    gen: 'III',
     num: 301,
     species: 'Delcatty',
     types: ['Normal'],
@@ -4646,6 +4979,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   sableye: {
+    gen: 'III',
     num: 302,
     species: 'Sableye',
     types: ['Dark', 'Ghost'],
@@ -4658,6 +4992,7 @@ exports.BattlePokedex = {
     otherFormes: ['sableyemega']
   },
   sableyemega: {
+    gen: 'III',
     num: 302,
     species: 'Sableye-Mega',
     baseSpecies: 'Sableye',
@@ -4673,6 +5008,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   mawile: {
+    gen: 'III',
     num: 303,
     species: 'Mawile',
     types: ['Steel', 'Fairy'],
@@ -4685,6 +5021,7 @@ exports.BattlePokedex = {
     otherFormes: ['mawilemega']
   },
   mawilemega: {
+    gen: 'III',
     num: 303,
     species: 'Mawile-Mega',
     baseSpecies: 'Mawile',
@@ -4700,6 +5037,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   aron: {
+    gen: 'III',
     num: 304,
     species: 'Aron',
     types: ['Steel', 'Rock'],
@@ -4712,6 +5050,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   lairon: {
+    gen: 'III',
     num: 305,
     species: 'Lairon',
     types: ['Steel', 'Rock'],
@@ -4726,6 +5065,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   aggron: {
+    gen: 'III',
     num: 306,
     species: 'Aggron',
     types: ['Steel', 'Rock'],
@@ -4740,6 +5080,7 @@ exports.BattlePokedex = {
     otherFormes: ['aggronmega']
   },
   aggronmega: {
+    gen: 'III',
     num: 306,
     species: 'Aggron-Mega',
     baseSpecies: 'Aggron',
@@ -4755,6 +5096,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   meditite: {
+    gen: 'III',
     num: 307,
     species: 'Meditite',
     types: ['Fighting', 'Psychic'],
@@ -4767,6 +5109,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   medicham: {
+    gen: 'III',
     num: 308,
     species: 'Medicham',
     types: ['Fighting', 'Psychic'],
@@ -4781,6 +5124,7 @@ exports.BattlePokedex = {
     otherFormes: ['medichammega']
   },
   medichammega: {
+    gen: 'III',
     num: 308,
     species: 'Medicham-Mega',
     baseSpecies: 'Medicham',
@@ -4796,6 +5140,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   electrike: {
+    gen: 'III',
     num: 309,
     species: 'Electrike',
     types: ['Electric'],
@@ -4808,6 +5153,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   manectric: {
+    gen: 'III',
     num: 310,
     species: 'Manectric',
     types: ['Electric'],
@@ -4822,6 +5168,7 @@ exports.BattlePokedex = {
     otherFormes: ['manectricmega']
   },
   manectricmega: {
+    gen: 'III',
     num: 310,
     species: 'Manectric-Mega',
     baseSpecies: 'Manectric',
@@ -4837,6 +5184,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   plusle: {
+    gen: 'III',
     num: 311,
     species: 'Plusle',
     types: ['Electric'],
@@ -4848,6 +5196,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   minun: {
+    gen: 'III',
     num: 312,
     species: 'Minun',
     types: ['Electric'],
@@ -4859,6 +5208,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   volbeat: {
+    gen: 'III',
     num: 313,
     species: 'Volbeat',
     types: ['Bug'],
@@ -4871,6 +5221,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Human-Like']
   },
   illumise: {
+    gen: 'III',
     num: 314,
     species: 'Illumise',
     types: ['Bug'],
@@ -4883,6 +5234,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Human-Like']
   },
   roselia: {
+    gen: 'III',
     num: 315,
     species: 'Roselia',
     types: ['Grass', 'Poison'],
@@ -4897,6 +5249,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   gulpin: {
+    gen: 'III',
     num: 316,
     species: 'Gulpin',
     types: ['Poison'],
@@ -4909,6 +5262,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   swalot: {
+    gen: 'III',
     num: 317,
     species: 'Swalot',
     types: ['Poison'],
@@ -4922,6 +5276,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   carvanha: {
+    gen: 'III',
     num: 318,
     species: 'Carvanha',
     types: ['Water', 'Dark'],
@@ -4934,6 +5289,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   sharpedo: {
+    gen: 'III',
     num: 319,
     species: 'Sharpedo',
     types: ['Water', 'Dark'],
@@ -4948,6 +5304,7 @@ exports.BattlePokedex = {
     otherFormes: ['sharpedomega']
   },
   sharpedomega: {
+    gen: 'III',
     num: 319,
     species: 'Sharpedo-Mega',
     baseSpecies: 'Sharpedo',
@@ -4963,6 +5320,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   wailmer: {
+    gen: 'III',
     num: 320,
     species: 'Wailmer',
     types: ['Water'],
@@ -4975,6 +5333,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Water 2']
   },
   wailord: {
+    gen: 'III',
     num: 321,
     species: 'Wailord',
     types: ['Water'],
@@ -4987,7 +5346,9 @@ exports.BattlePokedex = {
     evoLevel: 40,
     eggGroups: ['Field', 'Water 2']
   },
+  gen: 'III',
   numel: {
+    gen: 'III',
     num: 322,
     species: 'Numel',
     types: ['Fire', 'Ground'],
@@ -5000,6 +5361,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   camerupt: {
+    gen: 'III',
     num: 323,
     species: 'Camerupt',
     types: ['Fire', 'Ground'],
@@ -5014,6 +5376,7 @@ exports.BattlePokedex = {
     otherFormes: ['cameruptmega']
   },
   cameruptmega: {
+    gen: 'III',
     num: 323,
     species: 'Camerupt-Mega',
     baseSpecies: 'Camerupt',
@@ -5029,6 +5392,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   torkoal: {
+    gen: 'III',
     num: 324,
     species: 'Torkoal',
     types: ['Fire'],
@@ -5040,6 +5404,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   spoink: {
+    gen: 'III',
     num: 325,
     species: 'Spoink',
     types: ['Psychic'],
@@ -5052,6 +5417,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   grumpig: {
+    gen: 'III',
     num: 326,
     species: 'Grumpig',
     types: ['Psychic'],
@@ -5065,6 +5431,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   spinda: {
+    gen: 'III',
     num: 327,
     species: 'Spinda',
     types: ['Normal'],
@@ -5076,6 +5443,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   trapinch: {
+    gen: 'III',
     num: 328,
     species: 'Trapinch',
     types: ['Ground'],
@@ -5088,6 +5456,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   vibrava: {
+    gen: 'III',
     num: 329,
     species: 'Vibrava',
     types: ['Ground', 'Dragon'],
@@ -5102,6 +5471,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   flygon: {
+    gen: 'III',
     num: 330,
     species: 'Flygon',
     types: ['Ground', 'Dragon'],
@@ -5115,6 +5485,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   cacnea: {
+    gen: 'III',
     num: 331,
     species: 'Cacnea',
     types: ['Grass'],
@@ -5127,6 +5498,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Human-Like']
   },
   cacturne: {
+    gen: 'III',
     num: 332,
     species: 'Cacturne',
     types: ['Grass', 'Dark'],
@@ -5140,6 +5512,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Human-Like']
   },
   swablu: {
+    gen: 'III',
     num: 333,
     species: 'Swablu',
     types: ['Normal', 'Flying'],
@@ -5152,6 +5525,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Dragon']
   },
   altaria: {
+    gen: 'III',
     num: 334,
     species: 'Altaria',
     types: ['Dragon', 'Flying'],
@@ -5166,6 +5540,7 @@ exports.BattlePokedex = {
     otherFormes: ['altariamega']
   },
   altariamega: {
+    gen: 'III',
     num: 334,
     species: 'Altaria-Mega',
     baseSpecies: 'Altaria',
@@ -5181,6 +5556,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Dragon']
   },
   zangoose: {
+    gen: 'III',
     num: 335,
     species: 'Zangoose',
     types: ['Normal'],
@@ -5192,6 +5568,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   seviper: {
+    gen: 'III',
     num: 336,
     species: 'Seviper',
     types: ['Poison'],
@@ -5203,6 +5580,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Dragon']
   },
   lunatone: {
+    gen: 'III',
     num: 337,
     species: 'Lunatone',
     types: ['Rock', 'Psychic'],
@@ -5215,6 +5593,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   solrock: {
+    gen: 'III',
     num: 338,
     species: 'Solrock',
     types: ['Rock', 'Psychic'],
@@ -5227,6 +5606,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   barboach: {
+    gen: 'III',
     num: 339,
     species: 'Barboach',
     types: ['Water', 'Ground'],
@@ -5239,6 +5619,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   whiscash: {
+    gen: 'III',
     num: 340,
     species: 'Whiscash',
     types: ['Water', 'Ground'],
@@ -5252,6 +5633,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   corphish: {
+    gen: 'III',
     num: 341,
     species: 'Corphish',
     types: ['Water'],
@@ -5264,6 +5646,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   crawdaunt: {
+    gen: 'III',
     num: 342,
     species: 'Crawdaunt',
     types: ['Water', 'Dark'],
@@ -5277,6 +5660,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   baltoy: {
+    gen: 'III',
     num: 343,
     species: 'Baltoy',
     types: ['Ground', 'Psychic'],
@@ -5290,6 +5674,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   claydol: {
+    gen: 'III',
     num: 344,
     species: 'Claydol',
     types: ['Ground', 'Psychic'],
@@ -5304,6 +5689,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   lileep: {
+    gen: 'III',
     num: 345,
     species: 'Lileep',
     types: ['Rock', 'Grass'],
@@ -5317,6 +5703,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   cradily: {
+    gen: 'III',
     num: 346,
     species: 'Cradily',
     types: ['Rock', 'Grass'],
@@ -5331,6 +5718,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   anorith: {
+    gen: 'III',
     num: 347,
     species: 'Anorith',
     types: ['Rock', 'Bug'],
@@ -5344,6 +5732,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   armaldo: {
+    gen: 'III',
     num: 348,
     species: 'Armaldo',
     types: ['Rock', 'Bug'],
@@ -5358,6 +5747,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   feebas: {
+    gen: 'III',
     num: 349,
     species: 'Feebas',
     types: ['Water'],
@@ -5370,6 +5760,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   milotic: {
+    gen: 'III',
     num: 350,
     species: 'Milotic',
     types: ['Water'],
@@ -5383,6 +5774,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   castform: {
+    gen: 'III',
     num: 351,
     species: 'Castform',
     types: ['Normal'],
@@ -5395,6 +5787,7 @@ exports.BattlePokedex = {
     otherFormes: ['castformsunny', 'castformrainy', 'castformsnowy']
   },
   kecleon: {
+    gen: 'III',
     num: 352,
     species: 'Kecleon',
     types: ['Normal'],
@@ -5406,6 +5799,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   shuppet: {
+    gen: 'III',
     num: 353,
     species: 'Shuppet',
     types: ['Ghost'],
@@ -5418,6 +5812,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   banette: {
+    gen: 'III',
     num: 354,
     species: 'Banette',
     types: ['Ghost'],
@@ -5432,6 +5827,7 @@ exports.BattlePokedex = {
     otherFormes: ['banettemega']
   },
   banettemega: {
+    gen: 'III',
     num: 354,
     species: 'Banette-Mega',
     baseSpecies: 'Banette',
@@ -5447,6 +5843,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   duskull: {
+    gen: 'III',
     num: 355,
     species: 'Duskull',
     types: ['Ghost'],
@@ -5459,6 +5856,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   dusclops: {
+    gen: 'III',
     num: 356,
     species: 'Dusclops',
     types: ['Ghost'],
@@ -5473,6 +5871,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   tropius: {
+    gen: 'III',
     num: 357,
     species: 'Tropius',
     types: ['Grass', 'Flying'],
@@ -5484,6 +5883,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   chimecho: {
+    gen: 'III',
     num: 358,
     species: 'Chimecho',
     types: ['Psychic'],
@@ -5497,6 +5897,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   absol: {
+    gen: 'III',
     num: 359,
     species: 'Absol',
     types: ['Dark'],
@@ -5509,6 +5910,7 @@ exports.BattlePokedex = {
     otherFormes: ['absolmega']
   },
   absolmega: {
+    gen: 'III',
     num: 359,
     species: 'Absol-Mega',
     baseSpecies: 'Absol',
@@ -5524,6 +5926,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   wynaut: {
+    gen: 'III',
     num: 360,
     species: 'Wynaut',
     types: ['Psychic'],
@@ -5536,6 +5939,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   snorunt: {
+    gen: 'III',
     num: 361,
     species: 'Snorunt',
     types: ['Ice'],
@@ -5548,6 +5952,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Mineral']
   },
   glalie: {
+    gen: 'III',
     num: 362,
     species: 'Glalie',
     types: ['Ice'],
@@ -5562,6 +5967,7 @@ exports.BattlePokedex = {
     otherFormes: ['glaliemega']
   },
   glaliemega: {
+    gen: 'III',
     num: 362,
     species: 'Glalie-Mega',
     baseSpecies: 'Glalie',
@@ -5577,6 +5983,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Mineral']
   },
   spheal: {
+    gen: 'III',
     num: 363,
     species: 'Spheal',
     types: ['Ice', 'Water'],
@@ -5589,6 +5996,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   sealeo: {
+    gen: 'III',
     num: 364,
     species: 'Sealeo',
     types: ['Ice', 'Water'],
@@ -5603,6 +6011,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   walrein: {
+    gen: 'III',
     num: 365,
     species: 'Walrein',
     types: ['Ice', 'Water'],
@@ -5616,6 +6025,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   clamperl: {
+    gen: 'III',
     num: 366,
     species: 'Clamperl',
     types: ['Water'],
@@ -5628,6 +6038,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   huntail: {
+    gen: 'III',
     num: 367,
     species: 'Huntail',
     types: ['Water'],
@@ -5641,6 +6052,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   gorebyss: {
+    gen: 'III',
     num: 368,
     species: 'Gorebyss',
     types: ['Water'],
@@ -5654,6 +6066,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   relicanth: {
+    gen: 'III',
     num: 369,
     species: 'Relicanth',
     types: ['Water', 'Rock'],
@@ -5666,6 +6079,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   luvdisc: {
+    gen: 'III',
     num: 370,
     species: 'Luvdisc',
     types: ['Water'],
@@ -5678,6 +6092,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   bagon: {
+    gen: 'III',
     num: 371,
     species: 'Bagon',
     types: ['Dragon'],
@@ -5690,6 +6105,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   shelgon: {
+    gen: 'III',
     num: 372,
     species: 'Shelgon',
     types: ['Dragon'],
@@ -5704,6 +6120,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   salamence: {
+    gen: 'III',
     num: 373,
     species: 'Salamence',
     types: ['Dragon', 'Flying'],
@@ -5718,6 +6135,7 @@ exports.BattlePokedex = {
     otherFormes: ['salamencemega']
   },
   salamencemega: {
+    gen: 'III',
     num: 373,
     species: 'Salamence-Mega',
     baseSpecies: 'Salamence',
@@ -5733,6 +6151,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   beldum: {
+    gen: 'III',
     num: 374,
     species: 'Beldum',
     types: ['Steel', 'Psychic'],
@@ -5746,6 +6165,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   metang: {
+    gen: 'III',
     num: 375,
     species: 'Metang',
     types: ['Steel', 'Psychic'],
@@ -5761,6 +6181,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   metagross: {
+    gen: 'III',
     num: 376,
     species: 'Metagross',
     types: ['Steel', 'Psychic'],
@@ -5776,6 +6197,7 @@ exports.BattlePokedex = {
     otherFormes: ['metagrossmega']
   },
   metagrossmega: {
+    gen: 'III',
     num: 376,
     species: 'Metagross-Mega',
     baseSpecies: 'Metagross',
@@ -5792,6 +6214,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   regirock: {
+    gen: 'III',
     num: 377,
     species: 'Regirock',
     types: ['Rock'],
@@ -5804,6 +6227,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   regice: {
+    gen: 'III',
     num: 378,
     species: 'Regice',
     types: ['Ice'],
@@ -5816,6 +6240,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   registeel: {
+    gen: 'III',
     num: 379,
     species: 'Registeel',
     types: ['Steel'],
@@ -5828,6 +6253,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   latias: {
+    gen: 'III',
     num: 380,
     species: 'Latias',
     types: ['Dragon', 'Psychic'],
@@ -5841,6 +6267,7 @@ exports.BattlePokedex = {
     otherFormes: ['latiasmega']
   },
   latiasmega: {
+    gen: 'III',
     num: 380,
     species: 'Latias-Mega',
     baseSpecies: 'Latias',
@@ -5857,6 +6284,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   latios: {
+    gen: 'III',
     num: 381,
     species: 'Latios',
     types: ['Dragon', 'Psychic'],
@@ -5870,6 +6298,7 @@ exports.BattlePokedex = {
     otherFormes: ['latiosmega']
   },
   latiosmega: {
+    gen: 'III',
     num: 381,
     species: 'Latios-Mega',
     baseSpecies: 'Latios',
@@ -5886,6 +6315,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   kyogre: {
+    gen: 'III',
     num: 382,
     species: 'Kyogre',
     types: ['Water'],
@@ -5899,6 +6329,7 @@ exports.BattlePokedex = {
     otherFormes: ['kyogreprimal']
   },
   kyogreprimal: {
+    gen: 'III',
     num: 382,
     species: 'Kyogre-Primal',
     baseSpecies: 'Kyogre',
@@ -5915,6 +6346,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   groudon: {
+    gen: 'III',
     num: 383,
     species: 'Groudon',
     types: ['Ground'],
@@ -5928,6 +6360,7 @@ exports.BattlePokedex = {
     otherFormes: ['groudonprimal']
   },
   groudonprimal: {
+    gen: 'III',
     num: 383,
     species: 'Groudon-Primal',
     baseSpecies: 'Groudon',
@@ -5944,6 +6377,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   rayquaza: {
+    gen: 'III',
     num: 384,
     species: 'Rayquaza',
     types: ['Dragon', 'Flying'],
@@ -5957,6 +6391,7 @@ exports.BattlePokedex = {
     otherFormes: ['rayquazamega']
   },
   rayquazamega: {
+    gen: 'III',
     num: 384,
     species: 'Rayquaza-Mega',
     baseSpecies: 'Rayquaza',
@@ -5973,6 +6408,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   jirachi: {
+    gen: 'III',
     num: 385,
     species: 'Jirachi',
     types: ['Steel', 'Psychic'],
@@ -5985,6 +6421,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   deoxys: {
+    gen: 'III',
     num: 386,
     species: 'Deoxys',
     baseForme: 'Normal',
@@ -5999,6 +6436,7 @@ exports.BattlePokedex = {
     otherFormes: ['deoxysattack', 'deoxysdefense', 'deoxysspeed']
   },
   deoxysattack: {
+    gen: 'III',
     num: 386,
     species: 'Deoxys-Attack',
     baseSpecies: 'Deoxys',
@@ -6015,6 +6453,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   deoxysdefense: {
+    gen: 'III',
     num: 386,
     species: 'Deoxys-Defense',
     baseSpecies: 'Deoxys',
@@ -6031,6 +6470,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   deoxysspeed: {
+    gen: 'III',
     num: 386,
     species: 'Deoxys-Speed',
     baseSpecies: 'Deoxys',
@@ -6047,6 +6487,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   turtwig: {
+    gen: 'IV',
     num: 387,
     species: 'Turtwig',
     types: ['Grass'],
@@ -6060,6 +6501,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   grotle: {
+    gen: 'IV',
     num: 388,
     species: 'Grotle',
     types: ['Grass'],
@@ -6075,6 +6517,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   torterra: {
+    gen: 'IV',
     num: 389,
     species: 'Torterra',
     types: ['Grass', 'Ground'],
@@ -6089,6 +6532,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   chimchar: {
+    gen: 'IV',
     num: 390,
     species: 'Chimchar',
     types: ['Fire'],
@@ -6102,6 +6546,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   monferno: {
+    gen: 'IV',
     num: 391,
     species: 'Monferno',
     types: ['Fire', 'Fighting'],
@@ -6117,6 +6562,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   infernape: {
+    gen: 'IV',
     num: 392,
     species: 'Infernape',
     types: ['Fire', 'Fighting'],
@@ -6131,6 +6577,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   piplup: {
+    gen: 'IV',
     num: 393,
     species: 'Piplup',
     types: ['Water'],
@@ -6144,6 +6591,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   prinplup: {
+    gen: 'IV',
     num: 394,
     species: 'Prinplup',
     types: ['Water'],
@@ -6159,6 +6607,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   empoleon: {
+    gen: 'IV',
     num: 395,
     species: 'Empoleon',
     types: ['Water', 'Steel'],
@@ -6173,6 +6622,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   starly: {
+    gen: 'IV',
     num: 396,
     species: 'Starly',
     types: ['Normal', 'Flying'],
@@ -6185,6 +6635,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   staravia: {
+    gen: 'IV',
     num: 397,
     species: 'Staravia',
     types: ['Normal', 'Flying'],
@@ -6199,6 +6650,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   staraptor: {
+    gen: 'IV',
     num: 398,
     species: 'Staraptor',
     types: ['Normal', 'Flying'],
@@ -6212,6 +6664,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   bidoof: {
+    gen: 'IV',
     num: 399,
     species: 'Bidoof',
     types: ['Normal'],
@@ -6224,6 +6677,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   bibarel: {
+    gen: 'IV',
     num: 400,
     species: 'Bibarel',
     types: ['Normal', 'Water'],
@@ -6237,6 +6691,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   kricketot: {
+    gen: 'IV',
     num: 401,
     species: 'Kricketot',
     types: ['Bug'],
@@ -6249,6 +6704,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   kricketune: {
+    gen: 'IV',
     num: 402,
     species: 'Kricketune',
     types: ['Bug'],
@@ -6262,6 +6718,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   shinx: {
+    gen: 'IV',
     num: 403,
     species: 'Shinx',
     types: ['Electric'],
@@ -6274,6 +6731,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   luxio: {
+    gen: 'IV',
     num: 404,
     species: 'Luxio',
     types: ['Electric'],
@@ -6288,6 +6746,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   luxray: {
+    gen: 'IV',
     num: 405,
     species: 'Luxray',
     types: ['Electric'],
@@ -6301,6 +6760,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   budew: {
+    gen: 'IV',
     num: 406,
     species: 'Budew',
     types: ['Grass', 'Poison'],
@@ -6313,6 +6773,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   roserade: {
+    gen: 'IV',
     num: 407,
     species: 'Roserade',
     types: ['Grass', 'Poison'],
@@ -6326,6 +6787,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   cranidos: {
+    gen: 'IV',
     num: 408,
     species: 'Cranidos',
     types: ['Rock'],
@@ -6339,6 +6801,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   rampardos: {
+    gen: 'IV',
     num: 409,
     species: 'Rampardos',
     types: ['Rock'],
@@ -6353,6 +6816,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   shieldon: {
+    gen: 'IV',
     num: 410,
     species: 'Shieldon',
     types: ['Rock', 'Steel'],
@@ -6366,6 +6830,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   bastiodon: {
+    gen: 'IV',
     num: 411,
     species: 'Bastiodon',
     types: ['Rock', 'Steel'],
@@ -6380,6 +6845,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   burmy: {
+    gen: 'IV',
     num: 412,
     species: 'Burmy',
     baseForme: 'Plant',
@@ -6394,6 +6860,7 @@ exports.BattlePokedex = {
     otherForms: ['burmysandy', 'burmytrash']
   },
   wormadam: {
+    gen: 'IV',
     num: 413,
     species: 'Wormadam',
     baseForme: 'Plant',
@@ -6410,6 +6877,7 @@ exports.BattlePokedex = {
     otherFormes: ['wormadamsandy', 'wormadamtrash']
   },
   wormadamsandy: {
+    gen: 'IV',
     num: 413,
     species: 'Wormadam-Sandy',
     baseSpecies: 'Wormadam',
@@ -6428,6 +6896,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   wormadamtrash: {
+    gen: 'IV',
     num: 413,
     species: 'Wormadam-Trash',
     baseSpecies: 'Wormadam',
@@ -6446,6 +6915,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   mothim: {
+    gen: 'IV',
     num: 414,
     species: 'Mothim',
     types: ['Bug', 'Flying'],
@@ -6460,6 +6930,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   combee: {
+    gen: 'IV',
     num: 415,
     species: 'Combee',
     types: ['Bug', 'Flying'],
@@ -6473,6 +6944,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   vespiquen: {
+    gen: 'IV',
     num: 416,
     species: 'Vespiquen',
     types: ['Bug', 'Flying'],
@@ -6487,6 +6959,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   pachirisu: {
+    gen: 'IV',
     num: 417,
     species: 'Pachirisu',
     types: ['Electric'],
@@ -6498,6 +6971,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   buizel: {
+    gen: 'IV',
     num: 418,
     species: 'Buizel',
     types: ['Water'],
@@ -6510,6 +6984,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   floatzel: {
+    gen: 'IV',
     num: 419,
     species: 'Floatzel',
     types: ['Water'],
@@ -6523,6 +6998,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   cherubi: {
+    gen: 'IV',
     num: 420,
     species: 'Cherubi',
     types: ['Grass'],
@@ -6535,6 +7011,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   cherrim: {
+    gen: 'IV',
     num: 421,
     species: 'Cherrim',
     baseForme: 'Overcast',
@@ -6550,6 +7027,7 @@ exports.BattlePokedex = {
     otherFormes: ['cherrimsunshine']
   },
   cherrimsunshine: {
+    gen: 'IV',
     num: 421,
     species: 'Cherrim-Sunshine',
     baseSpecies: 'Cherrim',
@@ -6567,6 +7045,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   shellos: {
+    gen: 'IV',
     num: 422,
     species: 'Shellos',
     baseForme: 'West',
@@ -6581,6 +7060,7 @@ exports.BattlePokedex = {
     otherForms: ['shelloseast']
   },
   gastrodon: {
+    gen: 'IV',
     num: 423,
     species: 'Gastrodon',
     baseForme: 'West',
@@ -6596,6 +7076,7 @@ exports.BattlePokedex = {
     otherForms: ['gastrodoneast']
   },
   ambipom: {
+    gen: 'IV',
     num: 424,
     species: 'Ambipom',
     types: ['Normal'],
@@ -6610,6 +7091,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   drifloon: {
+    gen: 'IV',
     num: 425,
     species: 'Drifloon',
     types: ['Ghost', 'Flying'],
@@ -6622,6 +7104,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   drifblim: {
+    gen: 'IV',
     num: 426,
     species: 'Drifblim',
     types: ['Ghost', 'Flying'],
@@ -6635,6 +7118,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   buneary: {
+    gen: 'IV',
     num: 427,
     species: 'Buneary',
     types: ['Normal'],
@@ -6647,6 +7131,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   lopunny: {
+    gen: 'IV',
     num: 428,
     species: 'Lopunny',
     types: ['Normal'],
@@ -6661,6 +7146,7 @@ exports.BattlePokedex = {
     otherFormes: ['lopunnymega']
   },
   lopunnymega: {
+    gen: 'IV',
     num: 428,
     species: 'Lopunny-Mega',
     baseSpecies: 'Lopunny',
@@ -6676,6 +7162,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   mismagius: {
+    gen: 'IV',
     num: 429,
     species: 'Mismagius',
     types: ['Ghost'],
@@ -6689,6 +7176,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   honchkrow: {
+    gen: 'IV',
     num: 430,
     species: 'Honchkrow',
     types: ['Dark', 'Flying'],
@@ -6702,6 +7190,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   glameow: {
+    gen: 'IV',
     num: 431,
     species: 'Glameow',
     types: ['Normal'],
@@ -6715,6 +7204,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   purugly: {
+    gen: 'IV',
     num: 432,
     species: 'Purugly',
     types: ['Normal'],
@@ -6729,6 +7219,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   chingling: {
+    gen: 'IV',
     num: 433,
     species: 'Chingling',
     types: ['Psychic'],
@@ -6741,6 +7232,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   stunky: {
+    gen: 'IV',
     num: 434,
     species: 'Stunky',
     types: ['Poison', 'Dark'],
@@ -6753,6 +7245,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   skuntank: {
+    gen: 'IV',
     num: 435,
     species: 'Skuntank',
     types: ['Poison', 'Dark'],
@@ -6766,6 +7259,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   bronzor: {
+    gen: 'IV',
     num: 436,
     species: 'Bronzor',
     types: ['Steel', 'Psychic'],
@@ -6779,6 +7273,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   bronzong: {
+    gen: 'IV',
     num: 437,
     species: 'Bronzong',
     types: ['Steel', 'Psychic'],
@@ -6793,6 +7288,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   bonsly: {
+    gen: 'IV',
     num: 438,
     species: 'Bonsly',
     types: ['Rock'],
@@ -6805,6 +7301,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   mimejr: {
+    gen: 'IV',
     num: 439,
     species: 'Mime Jr.',
     types: ['Psychic', 'Fairy'],
@@ -6817,6 +7314,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   happiny: {
+    gen: 'IV',
     num: 440,
     species: 'Happiny',
     types: ['Normal'],
@@ -6830,6 +7328,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   chatot: {
+    gen: 'IV',
     num: 441,
     species: 'Chatot',
     types: ['Normal', 'Flying'],
@@ -6841,6 +7340,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   spiritomb: {
+    gen: 'IV',
     num: 442,
     species: 'Spiritomb',
     types: ['Ghost', 'Dark'],
@@ -6852,6 +7352,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   gible: {
+    gen: 'IV',
     num: 443,
     species: 'Gible',
     types: ['Dragon', 'Ground'],
@@ -6864,6 +7365,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   gabite: {
+    gen: 'IV',
     num: 444,
     species: 'Gabite',
     types: ['Dragon', 'Ground'],
@@ -6878,6 +7380,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   garchomp: {
+    gen: 'IV',
     num: 445,
     species: 'Garchomp',
     types: ['Dragon', 'Ground'],
@@ -6892,6 +7395,7 @@ exports.BattlePokedex = {
     otherFormes: ['garchompmega']
   },
   garchompmega: {
+    gen: 'IV',
     num: 445,
     species: 'Garchomp-Mega',
     baseSpecies: 'Garchomp',
@@ -6907,6 +7411,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   munchlax: {
+    gen: 'IV',
     num: 446,
     species: 'Munchlax',
     types: ['Normal'],
@@ -6920,6 +7425,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   riolu: {
+    gen: 'IV',
     num: 447,
     species: 'Riolu',
     types: ['Fighting'],
@@ -6933,6 +7439,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   lucario: {
+    gen: 'IV',
     num: 448,
     species: 'Lucario',
     types: ['Fighting', 'Steel'],
@@ -6948,6 +7455,7 @@ exports.BattlePokedex = {
     otherFormes: ['lucariomega']
   },
   lucariomega: {
+    gen: 'IV',
     num: 448,
     species: 'Lucario-Mega',
     baseSpecies: 'Lucario',
@@ -6964,6 +7472,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   hippopotas: {
+    gen: 'IV',
     num: 449,
     species: 'Hippopotas',
     types: ['Ground'],
@@ -6976,6 +7485,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   hippowdon: {
+    gen: 'IV',
     num: 450,
     species: 'Hippowdon',
     types: ['Ground'],
@@ -6989,6 +7499,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   skorupi: {
+    gen: 'IV',
     num: 451,
     species: 'Skorupi',
     types: ['Poison', 'Bug'],
@@ -7001,6 +7512,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Water 3']
   },
   drapion: {
+    gen: 'IV',
     num: 452,
     species: 'Drapion',
     types: ['Poison', 'Dark'],
@@ -7014,6 +7526,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Water 3']
   },
   croagunk: {
+    gen: 'IV',
     num: 453,
     species: 'Croagunk',
     types: ['Poison', 'Fighting'],
@@ -7026,6 +7539,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   toxicroak: {
+    gen: 'IV',
     num: 454,
     species: 'Toxicroak',
     types: ['Poison', 'Fighting'],
@@ -7039,6 +7553,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   carnivine: {
+    gen: 'IV',
     num: 455,
     species: 'Carnivine',
     types: ['Grass'],
@@ -7050,6 +7565,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   finneon: {
+    gen: 'IV',
     num: 456,
     species: 'Finneon',
     types: ['Water'],
@@ -7062,6 +7578,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   lumineon: {
+    gen: 'IV',
     num: 457,
     species: 'Lumineon',
     types: ['Water'],
@@ -7075,6 +7592,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   mantyke: {
+    gen: 'IV',
     num: 458,
     species: 'Mantyke',
     types: ['Water', 'Flying'],
@@ -7087,6 +7605,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   snover: {
+    gen: 'IV',
     num: 459,
     species: 'Snover',
     types: ['Grass', 'Ice'],
@@ -7099,6 +7618,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   abomasnow: {
+    gen: 'IV',
     num: 460,
     species: 'Abomasnow',
     types: ['Grass', 'Ice'],
@@ -7113,6 +7633,7 @@ exports.BattlePokedex = {
     otherFormes: ['abomasnowmega']
   },
   abomasnowmega: {
+    gen: 'IV',
     num: 460,
     species: 'Abomasnow-Mega',
     baseSpecies: 'Abomasnow',
@@ -7128,6 +7649,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Grass']
   },
   weavile: {
+    gen: 'IV',
     num: 461,
     species: 'Weavile',
     types: ['Dark', 'Ice'],
@@ -7141,6 +7663,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   magnezone: {
+    gen: 'IV',
     num: 462,
     species: 'Magnezone',
     types: ['Electric', 'Steel'],
@@ -7155,6 +7678,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   lickilicky: {
+    gen: 'IV',
     num: 463,
     species: 'Lickilicky',
     types: ['Normal'],
@@ -7169,6 +7693,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   rhyperior: {
+    gen: 'IV',
     num: 464,
     species: 'Rhyperior',
     types: ['Ground', 'Rock'],
@@ -7182,6 +7707,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Field']
   },
   tangrowth: {
+    gen: 'IV',
     num: 465,
     species: 'Tangrowth',
     types: ['Grass'],
@@ -7196,6 +7722,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   electivire: {
+    gen: 'IV',
     num: 466,
     species: 'Electivire',
     types: ['Electric'],
@@ -7210,6 +7737,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   magmortar: {
+    gen: 'IV',
     num: 467,
     species: 'Magmortar',
     types: ['Fire'],
@@ -7224,6 +7752,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   togekiss: {
+    gen: 'IV',
     num: 468,
     species: 'Togekiss',
     types: ['Fairy', 'Flying'],
@@ -7238,6 +7767,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Fairy']
   },
   yanmega: {
+    gen: 'IV',
     num: 469,
     species: 'Yanmega',
     types: ['Bug', 'Flying'],
@@ -7252,6 +7782,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   leafeon: {
+    gen: 'IV',
     num: 470,
     species: 'Leafeon',
     types: ['Grass'],
@@ -7266,6 +7797,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   glaceon: {
+    gen: 'IV',
     num: 471,
     species: 'Glaceon',
     types: ['Ice'],
@@ -7280,6 +7812,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   gliscor: {
+    gen: 'IV',
     num: 472,
     species: 'Gliscor',
     types: ['Ground', 'Flying'],
@@ -7293,6 +7826,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   mamoswine: {
+    gen: 'IV',
     num: 473,
     species: 'Mamoswine',
     types: ['Ice', 'Ground'],
@@ -7307,6 +7841,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   porygonz: {
+    gen: 'IV',
     num: 474,
     species: 'Porygon-Z',
     types: ['Normal'],
@@ -7321,6 +7856,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   gallade: {
+    gen: 'IV',
     num: 475,
     species: 'Gallade',
     types: ['Psychic', 'Fighting'],
@@ -7336,6 +7872,7 @@ exports.BattlePokedex = {
     otherFormes: ['gallademega']
   },
   gallademega: {
+    gen: 'IV',
     num: 475,
     species: 'Gallade-Mega',
     baseSpecies: 'Gallade',
@@ -7352,6 +7889,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   probopass: {
+    gen: 'IV',
     num: 476,
     species: 'Probopass',
     types: ['Rock', 'Steel'],
@@ -7365,6 +7903,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   dusknoir: {
+    gen: 'IV',
     num: 477,
     species: 'Dusknoir',
     types: ['Ghost'],
@@ -7378,6 +7917,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   froslass: {
+    gen: 'IV',
     num: 478,
     species: 'Froslass',
     types: ['Ice', 'Ghost'],
@@ -7392,6 +7932,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Mineral']
   },
   rotom: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom',
     types: ['Electric', 'Ghost'],
@@ -7405,6 +7946,7 @@ exports.BattlePokedex = {
     otherFormes: ['rotomheat', 'rotomwash', 'rotomfrost', 'rotomfan', 'rotommow']
   },
   rotomheat: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom-Heat',
     baseSpecies: 'Rotom',
@@ -7421,6 +7963,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   rotomwash: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom-Wash',
     baseSpecies: 'Rotom',
@@ -7437,6 +7980,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   rotomfrost: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom-Frost',
     baseSpecies: 'Rotom',
@@ -7453,6 +7997,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   rotomfan: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom-Fan',
     baseSpecies: 'Rotom',
@@ -7469,6 +8014,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   rotommow: {
+    gen: 'IV',
     num: 479,
     species: 'Rotom-Mow',
     baseSpecies: 'Rotom',
@@ -7485,6 +8031,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   uxie: {
+    gen: 'IV',
     num: 480,
     species: 'Uxie',
     types: ['Psychic'],
@@ -7497,6 +8044,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   mesprit: {
+    gen: 'IV',
     num: 481,
     species: 'Mesprit',
     types: ['Psychic'],
@@ -7509,6 +8057,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   azelf: {
+    gen: 'IV',
     num: 482,
     species: 'Azelf',
     types: ['Psychic'],
@@ -7521,6 +8070,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   dialga: {
+    gen: 'IV',
     num: 483,
     species: 'Dialga',
     types: ['Steel', 'Dragon'],
@@ -7533,6 +8083,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   palkia: {
+    gen: 'IV',
     num: 484,
     species: 'Palkia',
     types: ['Water', 'Dragon'],
@@ -7545,6 +8096,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   heatran: {
+    gen: 'IV',
     num: 485,
     species: 'Heatran',
     types: ['Fire', 'Steel'],
@@ -7556,6 +8108,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   regigigas: {
+    gen: 'IV',
     num: 486,
     species: 'Regigigas',
     types: ['Normal'],
@@ -7568,6 +8121,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   giratina: {
+    gen: 'IV',
     num: 487,
     species: 'Giratina',
     baseForme: 'Altered',
@@ -7582,6 +8136,7 @@ exports.BattlePokedex = {
     otherFormes: ['giratinaorigin']
   },
   giratinaorigin: {
+    gen: 'IV',
     num: 487,
     species: 'Giratina-Origin',
     baseSpecies: 'Giratina',
@@ -7598,6 +8153,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   cresselia: {
+    gen: 'IV',
     num: 488,
     species: 'Cresselia',
     types: ['Psychic'],
@@ -7610,6 +8166,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   phione: {
+    gen: 'IV',
     num: 489,
     species: 'Phione',
     types: ['Water'],
@@ -7622,6 +8179,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Fairy']
   },
   manaphy: {
+    gen: 'IV',
     num: 490,
     species: 'Manaphy',
     types: ['Water'],
@@ -7634,6 +8192,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Fairy']
   },
   darkrai: {
+    gen: 'IV',
     num: 491,
     species: 'Darkrai',
     types: ['Dark'],
@@ -7646,6 +8205,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   shaymin: {
+    gen: 'IV',
     num: 492,
     species: 'Shaymin',
     baseForme: 'Land',
@@ -7660,6 +8220,7 @@ exports.BattlePokedex = {
     otherFormes: ['shayminsky']
   },
   shayminsky: {
+    gen: 'IV',
     num: 492,
     species: 'Shaymin-Sky',
     baseSpecies: 'Shaymin',
@@ -7676,6 +8237,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   arceus: {
+    gen: 'IV',
     num: 493,
     species: 'Arceus',
     baseForme: 'Normal',
@@ -7690,6 +8252,7 @@ exports.BattlePokedex = {
     otherFormes: ['arceusbug', 'arceusdark', 'arceusdragon', 'arceuselectric', 'arceusfairy', 'arceusfighting', 'arceusfire', 'arceusflying', 'arceusghost', 'arceusgrass', 'arceusground', 'arceusice', 'arceuspoison', 'arceuspsychic', 'arceusrock', 'arceussteel', 'arceuswater']
   },
   victini: {
+    gen: 'V',
     num: 494,
     species: 'Victini',
     types: ['Psychic', 'Fire'],
@@ -7702,6 +8265,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   snivy: {
+    gen: 'V',
     num: 495,
     species: 'Snivy',
     types: ['Grass'],
@@ -7715,6 +8279,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   servine: {
+    gen: 'V',
     num: 496,
     species: 'Servine',
     types: ['Grass'],
@@ -7730,6 +8295,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   serperior: {
+    gen: 'V',
     num: 497,
     species: 'Serperior',
     types: ['Grass'],
@@ -7744,6 +8310,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Grass']
   },
   tepig: {
+    gen: 'V',
     num: 498,
     species: 'Tepig',
     types: ['Fire'],
@@ -7757,6 +8324,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pignite: {
+    gen: 'V',
     num: 499,
     species: 'Pignite',
     types: ['Fire', 'Fighting'],
@@ -7772,6 +8340,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   emboar: {
+    gen: 'V',
     num: 500,
     species: 'Emboar',
     types: ['Fire', 'Fighting'],
@@ -7786,6 +8355,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   oshawott: {
+    gen: 'V',
     num: 501,
     species: 'Oshawott',
     types: ['Water'],
@@ -7799,6 +8369,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   dewott: {
+    gen: 'V',
     num: 502,
     species: 'Dewott',
     types: ['Water'],
@@ -7814,6 +8385,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   samurott: {
+    gen: 'V',
     num: 503,
     species: 'Samurott',
     types: ['Water'],
@@ -7828,6 +8400,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   patrat: {
+    gen: 'V',
     num: 504,
     species: 'Patrat',
     types: ['Normal'],
@@ -7840,6 +8413,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   watchog: {
+    gen: 'V',
     num: 505,
     species: 'Watchog',
     types: ['Normal'],
@@ -7853,6 +8427,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   lillipup: {
+    gen: 'V',
     num: 506,
     species: 'Lillipup',
     types: ['Normal'],
@@ -7865,6 +8440,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   herdier: {
+    gen: 'V',
     num: 507,
     species: 'Herdier',
     types: ['Normal'],
@@ -7879,6 +8455,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   stoutland: {
+    gen: 'V',
     num: 508,
     species: 'Stoutland',
     types: ['Normal'],
@@ -7892,6 +8469,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   purrloin: {
+    gen: 'V',
     num: 509,
     species: 'Purrloin',
     types: ['Dark'],
@@ -7904,6 +8482,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   liepard: {
+    gen: 'V',
     num: 510,
     species: 'Liepard',
     types: ['Dark'],
@@ -7917,6 +8496,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pansage: {
+    gen: 'V',
     num: 511,
     species: 'Pansage',
     types: ['Grass'],
@@ -7930,6 +8510,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   simisage: {
+    gen: 'V',
     num: 512,
     species: 'Simisage',
     types: ['Grass'],
@@ -7944,6 +8525,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pansear: {
+    gen: 'V',
     num: 513,
     species: 'Pansear',
     types: ['Fire'],
@@ -7957,6 +8539,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   simisear: {
+    gen: 'V',
     num: 514,
     species: 'Simisear',
     types: ['Fire'],
@@ -7971,6 +8554,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   panpour: {
+    gen: 'V',
     num: 515,
     species: 'Panpour',
     types: ['Water'],
@@ -7984,6 +8568,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   simipour: {
+    gen: 'V',
     num: 516,
     species: 'Simipour',
     types: ['Water'],
@@ -7998,6 +8583,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   munna: {
+    gen: 'V',
     num: 517,
     species: 'Munna',
     types: ['Psychic'],
@@ -8010,6 +8596,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   musharna: {
+    gen: 'V',
     num: 518,
     species: 'Musharna',
     types: ['Psychic'],
@@ -8023,6 +8610,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pidove: {
+    gen: 'V',
     num: 519,
     species: 'Pidove',
     types: ['Normal', 'Flying'],
@@ -8035,6 +8623,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   tranquill: {
+    gen: 'V',
     num: 520,
     species: 'Tranquill',
     types: ['Normal', 'Flying'],
@@ -8049,6 +8638,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   unfezant: {
+    gen: 'V',
     num: 521,
     species: 'Unfezant',
     types: ['Normal', 'Flying'],
@@ -8062,6 +8652,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   blitzle: {
+    gen: 'V',
     num: 522,
     species: 'Blitzle',
     types: ['Electric'],
@@ -8074,6 +8665,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   zebstrika: {
+    gen: 'V',
     num: 523,
     species: 'Zebstrika',
     types: ['Electric'],
@@ -8087,6 +8679,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   roggenrola: {
+    gen: 'V',
     num: 524,
     species: 'Roggenrola',
     types: ['Rock'],
@@ -8099,6 +8692,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   boldore: {
+    gen: 'V',
     num: 525,
     species: 'Boldore',
     types: ['Rock'],
@@ -8113,6 +8707,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   gigalith: {
+    gen: 'V',
     num: 526,
     species: 'Gigalith',
     types: ['Rock'],
@@ -8126,6 +8721,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   woobat: {
+    gen: 'V',
     num: 527,
     species: 'Woobat',
     types: ['Psychic', 'Flying'],
@@ -8138,6 +8734,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Field']
   },
   swoobat: {
+    gen: 'V',
     num: 528,
     species: 'Swoobat',
     types: ['Psychic', 'Flying'],
@@ -8151,6 +8748,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Field']
   },
   drilbur: {
+    gen: 'V',
     num: 529,
     species: 'Drilbur',
     types: ['Ground'],
@@ -8163,6 +8761,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   excadrill: {
+    gen: 'V',
     num: 530,
     species: 'Excadrill',
     types: ['Ground', 'Steel'],
@@ -8176,6 +8775,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   audino: {
+    gen: 'V',
     num: 531,
     species: 'Audino',
     types: ['Normal'],
@@ -8188,6 +8788,7 @@ exports.BattlePokedex = {
     otherFormes: ['audinomega']
   },
   audinomega: {
+    gen: 'V',
     num: 531,
     species: 'Audino-Mega',
     baseSpecies: 'Audino',
@@ -8203,6 +8804,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   timburr: {
+    gen: 'V',
     num: 532,
     species: 'Timburr',
     types: ['Fighting'],
@@ -8216,6 +8818,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   gurdurr: {
+    gen: 'V',
     num: 533,
     species: 'Gurdurr',
     types: ['Fighting'],
@@ -8231,6 +8834,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   conkeldurr: {
+    gen: 'V',
     num: 534,
     species: 'Conkeldurr',
     types: ['Fighting'],
@@ -8245,6 +8849,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   tympole: {
+    gen: 'V',
     num: 535,
     species: 'Tympole',
     types: ['Water'],
@@ -8257,6 +8862,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   palpitoad: {
+    gen: 'V',
     num: 536,
     species: 'Palpitoad',
     types: ['Water', 'Ground'],
@@ -8271,6 +8877,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   seismitoad: {
+    gen: 'V',
     num: 537,
     species: 'Seismitoad',
     types: ['Water', 'Ground'],
@@ -8284,6 +8891,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   throh: {
+    gen: 'V',
     num: 538,
     species: 'Throh',
     types: ['Fighting'],
@@ -8296,6 +8904,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   sawk: {
+    gen: 'V',
     num: 539,
     species: 'Sawk',
     types: ['Fighting'],
@@ -8308,6 +8917,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   sewaddle: {
+    gen: 'V',
     num: 540,
     species: 'Sewaddle',
     types: ['Bug', 'Grass'],
@@ -8320,6 +8930,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   swadloon: {
+    gen: 'V',
     num: 541,
     species: 'Swadloon',
     types: ['Bug', 'Grass'],
@@ -8334,6 +8945,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   leavanny: {
+    gen: 'V',
     num: 542,
     species: 'Leavanny',
     types: ['Bug', 'Grass'],
@@ -8347,6 +8959,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   venipede: {
+    gen: 'V',
     num: 543,
     species: 'Venipede',
     types: ['Bug', 'Poison'],
@@ -8359,6 +8972,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   whirlipede: {
+    gen: 'V',
     num: 544,
     species: 'Whirlipede',
     types: ['Bug', 'Poison'],
@@ -8373,6 +8987,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   scolipede: {
+    gen: 'V',
     num: 545,
     species: 'Scolipede',
     types: ['Bug', 'Poison'],
@@ -8386,6 +9001,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   cottonee: {
+    gen: 'V',
     num: 546,
     species: 'Cottonee',
     types: ['Grass', 'Fairy'],
@@ -8398,6 +9014,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   whimsicott: {
+    gen: 'V',
     num: 547,
     species: 'Whimsicott',
     types: ['Grass', 'Fairy'],
@@ -8411,6 +9028,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Grass']
   },
   petilil: {
+    gen: 'V',
     num: 548,
     species: 'Petilil',
     types: ['Grass'],
@@ -8424,6 +9042,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   lilligant: {
+    gen: 'V',
     num: 549,
     species: 'Lilligant',
     types: ['Grass'],
@@ -8438,6 +9057,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   basculin: {
+    gen: 'V',
     num: 550,
     species: 'Basculin',
     baseForme: 'Red-Striped',
@@ -8451,6 +9071,7 @@ exports.BattlePokedex = {
     otherFormes: ['basculinbluestriped']
   },
   sandile: {
+    gen: 'V',
     num: 551,
     species: 'Sandile',
     types: ['Ground', 'Dark'],
@@ -8463,6 +9084,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   krokorok: {
+    gen: 'V',
     num: 552,
     species: 'Krokorok',
     types: ['Ground', 'Dark'],
@@ -8477,6 +9099,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   krookodile: {
+    gen: 'V',
     num: 553,
     species: 'Krookodile',
     types: ['Ground', 'Dark'],
@@ -8490,6 +9113,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   darumaka: {
+    gen: 'V',
     num: 554,
     species: 'Darumaka',
     types: ['Fire'],
@@ -8502,6 +9126,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   darmanitan: {
+    gen: 'V',
     num: 555,
     species: 'Darmanitan',
     baseForme: 'Standard',
@@ -8517,6 +9142,7 @@ exports.BattlePokedex = {
     otherFormes: ['darmanitanzen']
   },
   maractus: {
+    gen: 'V',
     num: 556,
     species: 'Maractus',
     types: ['Grass'],
@@ -8528,6 +9154,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   dwebble: {
+    gen: 'V',
     num: 557,
     species: 'Dwebble',
     types: ['Bug', 'Rock'],
@@ -8540,6 +9167,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Mineral']
   },
   crustle: {
+    gen: 'V',
     num: 558,
     species: 'Crustle',
     types: ['Bug', 'Rock'],
@@ -8553,6 +9181,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Mineral']
   },
   scraggy: {
+    gen: 'V',
     num: 559,
     species: 'Scraggy',
     types: ['Dark', 'Fighting'],
@@ -8565,6 +9194,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Dragon']
   },
   scrafty: {
+    gen: 'V',
     num: 560,
     species: 'Scrafty',
     types: ['Dark', 'Fighting'],
@@ -8578,6 +9208,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Dragon']
   },
   sigilyph: {
+    gen: 'V',
     num: 561,
     species: 'Sigilyph',
     types: ['Psychic', 'Flying'],
@@ -8589,6 +9220,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   yamask: {
+    gen: 'V',
     num: 562,
     species: 'Yamask',
     types: ['Ghost'],
@@ -8601,6 +9233,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral', 'Amorphous']
   },
   cofagrigus: {
+    gen: 'V',
     num: 563,
     species: 'Cofagrigus',
     types: ['Ghost'],
@@ -8614,6 +9247,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral', 'Amorphous']
   },
   tirtouga: {
+    gen: 'V',
     num: 564,
     species: 'Tirtouga',
     types: ['Water', 'Rock'],
@@ -8627,6 +9261,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   carracosta: {
+    gen: 'V',
     num: 565,
     species: 'Carracosta',
     types: ['Water', 'Rock'],
@@ -8641,6 +9276,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   archen: {
+    gen: 'V',
     num: 566,
     species: 'Archen',
     types: ['Rock', 'Flying'],
@@ -8654,6 +9290,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Water 3']
   },
   archeops: {
+    gen: 'V',
     num: 567,
     species: 'Archeops',
     types: ['Rock', 'Flying'],
@@ -8668,6 +9305,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying', 'Water 3']
   },
   trubbish: {
+    gen: 'V',
     num: 568,
     species: 'Trubbish',
     types: ['Poison'],
@@ -8680,6 +9318,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   garbodor: {
+    gen: 'V',
     num: 569,
     species: 'Garbodor',
     types: ['Poison'],
@@ -8693,6 +9332,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   zorua: {
+    gen: 'V',
     num: 570,
     species: 'Zorua',
     types: ['Dark'],
@@ -8706,6 +9346,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   zoroark: {
+    gen: 'V',
     num: 571,
     species: 'Zoroark',
     types: ['Dark'],
@@ -8720,6 +9361,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   minccino: {
+    gen: 'V',
     num: 572,
     species: 'Minccino',
     types: ['Normal'],
@@ -8733,6 +9375,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   cinccino: {
+    gen: 'V',
     num: 573,
     species: 'Cinccino',
     types: ['Normal'],
@@ -8747,6 +9390,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   gothita: {
+    gen: 'V',
     num: 574,
     species: 'Gothita',
     types: ['Psychic'],
@@ -8760,6 +9404,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   gothorita: {
+    gen: 'V',
     num: 575,
     species: 'Gothorita',
     types: ['Psychic'],
@@ -8775,6 +9420,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   gothitelle: {
+    gen: 'V',
     num: 576,
     species: 'Gothitelle',
     types: ['Psychic'],
@@ -8789,6 +9435,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   solosis: {
+    gen: 'V',
     num: 577,
     species: 'Solosis',
     types: ['Psychic'],
@@ -8801,6 +9448,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   duosion: {
+    gen: 'V',
     num: 578,
     species: 'Duosion',
     types: ['Psychic'],
@@ -8815,6 +9463,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   reuniclus: {
+    gen: 'V',
     num: 579,
     species: 'Reuniclus',
     types: ['Psychic'],
@@ -8828,6 +9477,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   ducklett: {
+    gen: 'V',
     num: 580,
     species: 'Ducklett',
     types: ['Water', 'Flying'],
@@ -8840,6 +9490,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Flying']
   },
   swanna: {
+    gen: 'V',
     num: 581,
     species: 'Swanna',
     types: ['Water', 'Flying'],
@@ -8853,6 +9504,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Flying']
   },
   vanillite: {
+    gen: 'V',
     num: 582,
     species: 'Vanillite',
     types: ['Ice'],
@@ -8865,6 +9517,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   vanillish: {
+    gen: 'V',
     num: 583,
     species: 'Vanillish',
     types: ['Ice'],
@@ -8879,6 +9532,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   vanilluxe: {
+    gen: 'V',
     num: 584,
     species: 'Vanilluxe',
     types: ['Ice'],
@@ -8892,6 +9546,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   deerling: {
+    gen: 'V',
     num: 585,
     species: 'Deerling',
     baseForme: 'Spring',
@@ -8906,6 +9561,7 @@ exports.BattlePokedex = {
     otherForms: ['deerlingsummer', 'deerlingautumn', 'deerlingwinter']
   },
   sawsbuck: {
+    gen: 'V',
     num: 586,
     species: 'Sawsbuck',
     baseForme: 'Spring',
@@ -8921,6 +9577,7 @@ exports.BattlePokedex = {
     otherForms: ['sawsbucksummer', 'sawsbuckautumn', 'sawsbuckwinter']
   },
   emolga: {
+    gen: 'V',
     num: 587,
     species: 'Emolga',
     types: ['Electric', 'Flying'],
@@ -8932,6 +9589,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   karrablast: {
+    gen: 'V',
     num: 588,
     species: 'Karrablast',
     types: ['Bug'],
@@ -8944,6 +9602,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   escavalier: {
+    gen: 'V',
     num: 589,
     species: 'Escavalier',
     types: ['Bug', 'Steel'],
@@ -8957,6 +9616,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   foongus: {
+    gen: 'V',
     num: 590,
     species: 'Foongus',
     types: ['Grass', 'Poison'],
@@ -8969,6 +9629,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   amoonguss: {
+    gen: 'V',
     num: 591,
     species: 'Amoonguss',
     types: ['Grass', 'Poison'],
@@ -8982,6 +9643,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   frillish: {
+    gen: 'V',
     num: 592,
     species: 'Frillish',
     types: ['Water', 'Ghost'],
@@ -8994,6 +9656,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   jellicent: {
+    gen: 'V',
     num: 593,
     species: 'Jellicent',
     types: ['Water', 'Ghost'],
@@ -9007,6 +9670,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   alomomola: {
+    gen: 'V',
     num: 594,
     species: 'Alomomola',
     types: ['Water'],
@@ -9018,6 +9682,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   joltik: {
+    gen: 'V',
     num: 595,
     species: 'Joltik',
     types: ['Bug', 'Electric'],
@@ -9030,6 +9695,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   galvantula: {
+    gen: 'V',
     num: 596,
     species: 'Galvantula',
     types: ['Bug', 'Electric'],
@@ -9043,6 +9709,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   ferroseed: {
+    gen: 'V',
     num: 597,
     species: 'Ferroseed',
     types: ['Grass', 'Steel'],
@@ -9055,6 +9722,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Mineral']
   },
   ferrothorn: {
+    gen: 'V',
     num: 598,
     species: 'Ferrothorn',
     types: ['Grass', 'Steel'],
@@ -9068,6 +9736,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Mineral']
   },
   klink: {
+    gen: 'V',
     num: 599,
     species: 'Klink',
     types: ['Steel'],
@@ -9081,6 +9750,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   klang: {
+    gen: 'V',
     num: 600,
     species: 'Klang',
     types: ['Steel'],
@@ -9096,6 +9766,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   klinklang: {
+    gen: 'V',
     num: 601,
     species: 'Klinklang',
     types: ['Steel'],
@@ -9110,6 +9781,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   tynamo: {
+    gen: 'V',
     num: 602,
     species: 'Tynamo',
     types: ['Electric'],
@@ -9122,6 +9794,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   eelektrik: {
+    gen: 'V',
     num: 603,
     species: 'Eelektrik',
     types: ['Electric'],
@@ -9136,6 +9809,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   eelektross: {
+    gen: 'V',
     num: 604,
     species: 'Eelektross',
     types: ['Electric'],
@@ -9149,6 +9823,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   elgyem: {
+    gen: 'V',
     num: 605,
     species: 'Elgyem',
     types: ['Psychic'],
@@ -9161,6 +9836,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   beheeyem: {
+    gen: 'V',
     num: 606,
     species: 'Beheeyem',
     types: ['Psychic'],
@@ -9174,6 +9850,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   litwick: {
+    gen: 'V',
     num: 607,
     species: 'Litwick',
     types: ['Ghost', 'Fire'],
@@ -9186,6 +9863,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   lampent: {
+    gen: 'V',
     num: 608,
     species: 'Lampent',
     types: ['Ghost', 'Fire'],
@@ -9200,6 +9878,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   chandelure: {
+    gen: 'V',
     num: 609,
     species: 'Chandelure',
     types: ['Ghost', 'Fire'],
@@ -9213,6 +9892,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   axew: {
+    gen: 'V',
     num: 610,
     species: 'Axew',
     types: ['Dragon'],
@@ -9225,6 +9905,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   fraxure: {
+    gen: 'V',
     num: 611,
     species: 'Fraxure',
     types: ['Dragon'],
@@ -9239,6 +9920,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   haxorus: {
+    gen: 'V',
     num: 612,
     species: 'Haxorus',
     types: ['Dragon'],
@@ -9252,6 +9934,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   cubchoo: {
+    gen: 'V',
     num: 613,
     species: 'Cubchoo',
     types: ['Ice'],
@@ -9264,6 +9947,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   beartic: {
+    gen: 'V',
     num: 614,
     species: 'Beartic',
     types: ['Ice'],
@@ -9277,6 +9961,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   cryogonal: {
+    gen: 'V',
     num: 615,
     species: 'Cryogonal',
     types: ['Ice'],
@@ -9289,6 +9974,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   shelmet: {
+    gen: 'V',
     num: 616,
     species: 'Shelmet',
     types: ['Bug'],
@@ -9301,6 +9987,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   accelgor: {
+    gen: 'V',
     num: 617,
     species: 'Accelgor',
     types: ['Bug'],
@@ -9314,6 +10001,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   stunfisk: {
+    gen: 'V',
     num: 618,
     species: 'Stunfisk',
     types: ['Ground', 'Electric'],
@@ -9325,6 +10013,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Amorphous']
   },
   mienfoo: {
+    gen: 'V',
     num: 619,
     species: 'Mienfoo',
     types: ['Fighting'],
@@ -9337,6 +10026,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   mienshao: {
+    gen: 'V',
     num: 620,
     species: 'Mienshao',
     types: ['Fighting'],
@@ -9350,6 +10040,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   druddigon: {
+    gen: 'V',
     num: 621,
     species: 'Druddigon',
     types: ['Dragon'],
@@ -9361,6 +10052,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   golett: {
+    gen: 'V',
     num: 622,
     species: 'Golett',
     types: ['Ground', 'Ghost'],
@@ -9374,6 +10066,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   golurk: {
+    gen: 'V',
     num: 623,
     species: 'Golurk',
     types: ['Ground', 'Ghost'],
@@ -9388,6 +10081,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   pawniard: {
+    gen: 'V',
     num: 624,
     species: 'Pawniard',
     types: ['Dark', 'Steel'],
@@ -9400,6 +10094,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   bisharp: {
+    gen: 'V',
     num: 625,
     species: 'Bisharp',
     types: ['Dark', 'Steel'],
@@ -9413,6 +10108,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   bouffalant: {
+    gen: 'V',
     num: 626,
     species: 'Bouffalant',
     types: ['Normal'],
@@ -9424,6 +10120,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   rufflet: {
+    gen: 'V',
     num: 627,
     species: 'Rufflet',
     types: ['Normal', 'Flying'],
@@ -9437,6 +10134,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   braviary: {
+    gen: 'V',
     num: 628,
     species: 'Braviary',
     types: ['Normal', 'Flying'],
@@ -9451,6 +10149,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   vullaby: {
+    gen: 'V',
     num: 629,
     species: 'Vullaby',
     types: ['Dark', 'Flying'],
@@ -9464,6 +10163,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   mandibuzz: {
+    gen: 'V',
     num: 630,
     species: 'Mandibuzz',
     types: ['Dark', 'Flying'],
@@ -9478,6 +10178,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   heatmor: {
+    gen: 'V',
     num: 631,
     species: 'Heatmor',
     types: ['Fire'],
@@ -9489,6 +10190,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   durant: {
+    gen: 'V',
     num: 632,
     species: 'Durant',
     types: ['Bug', 'Steel'],
@@ -9500,6 +10202,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   deino: {
+    gen: 'V',
     num: 633,
     species: 'Deino',
     types: ['Dark', 'Dragon'],
@@ -9512,6 +10215,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   zweilous: {
+    gen: 'V',
     num: 634,
     species: 'Zweilous',
     types: ['Dark', 'Dragon'],
@@ -9526,6 +10230,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   hydreigon: {
+    gen: 'V',
     num: 635,
     species: 'Hydreigon',
     types: ['Dark', 'Dragon'],
@@ -9539,6 +10244,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   larvesta: {
+    gen: 'V',
     num: 636,
     species: 'Larvesta',
     types: ['Bug', 'Fire'],
@@ -9551,6 +10257,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   volcarona: {
+    gen: 'V',
     num: 637,
     species: 'Volcarona',
     types: ['Bug', 'Fire'],
@@ -9564,6 +10271,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   cobalion: {
+    gen: 'V',
     num: 638,
     species: 'Cobalion',
     types: ['Steel', 'Fighting'],
@@ -9576,6 +10284,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   terrakion: {
+    gen: 'V',
     num: 639,
     species: 'Terrakion',
     types: ['Rock', 'Fighting'],
@@ -9588,6 +10297,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   virizion: {
+    gen: 'V',
     num: 640,
     species: 'Virizion',
     types: ['Grass', 'Fighting'],
@@ -9600,6 +10310,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   tornadus: {
+    gen: 'V',
     num: 641,
     species: 'Tornadus',
     baseForme: 'Incarnate',
@@ -9614,6 +10325,7 @@ exports.BattlePokedex = {
     otherFormes: ['tornadustherian']
   },
   tornadustherian: {
+    gen: 'V',
     num: 641,
     species: 'Tornadus-Therian',
     baseSpecies: 'Tornadus',
@@ -9630,6 +10342,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   thundurus: {
+    gen: 'V',
     num: 642,
     species: 'Thundurus',
     baseForme: 'Incarnate',
@@ -9644,6 +10357,7 @@ exports.BattlePokedex = {
     otherFormes: ['thundurustherian']
   },
   thundurustherian: {
+    gen: 'V',
     num: 642,
     species: 'Thundurus-Therian',
     baseSpecies: 'Thundurus',
@@ -9660,6 +10374,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   reshiram: {
+    gen: 'V',
     num: 643,
     species: 'Reshiram',
     types: ['Dragon', 'Fire'],
@@ -9672,6 +10387,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   zekrom: {
+    gen: 'V',
     num: 644,
     species: 'Zekrom',
     types: ['Dragon', 'Electric'],
@@ -9684,6 +10400,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   landorus: {
+    gen: 'V',
     num: 645,
     species: 'Landorus',
     baseForme: 'Incarnate',
@@ -9698,6 +10415,7 @@ exports.BattlePokedex = {
     otherFormes: ['landorustherian']
   },
   landorustherian: {
+    gen: 'V',
     num: 645,
     species: 'Landorus-Therian',
     baseSpecies: 'Landorus',
@@ -9714,6 +10432,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   kyurem: {
+    gen: 'V',
     num: 646,
     species: 'Kyurem',
     types: ['Dragon', 'Ice'],
@@ -9727,6 +10446,7 @@ exports.BattlePokedex = {
     otherFormes: ['kyuremblack', 'kyuremwhite']
   },
   kyuremblack: {
+    gen: 'V',
     num: 646,
     species: 'Kyurem-Black',
     baseSpecies: 'Kyurem',
@@ -9743,6 +10463,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   kyuremwhite: {
+    gen: 'V',
     num: 646,
     species: 'Kyurem-White',
     baseSpecies: 'Kyurem',
@@ -9759,6 +10480,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   keldeo: {
+    gen: 'V',
     num: 647,
     species: 'Keldeo',
     baseForme: 'Ordinary',
@@ -9773,6 +10495,7 @@ exports.BattlePokedex = {
     otherFormes: ['keldeoresolute']
   },
   keldeoresolute: {
+    gen: 'V',
     num: 647,
     species: 'Keldeo-Resolute',
     baseSpecies: 'Keldeo',
@@ -9789,6 +10512,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   meloetta: {
+    gen: 'V',
     num: 648,
     species: 'Meloetta',
     baseForme: 'Aria',
@@ -9803,6 +10527,7 @@ exports.BattlePokedex = {
     otherFormes: ['meloettapirouette']
   },
   meloettapirouette: {
+    gen: 'V',
     num: 648,
     species: 'Meloetta-Pirouette',
     baseSpecies: 'Meloetta',
@@ -9819,6 +10544,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   genesect: {
+    gen: 'V',
     num: 649,
     species: 'Genesect',
     types: ['Bug', 'Steel'],
@@ -9831,22 +10557,8 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered'],
     otherFormes: ['genesectdouse', 'genesectshock', 'genesectburn', 'genesectchill']
   },
-  genesectdouse: {
-    num: 649,
-    species: 'Genesect-Douse',
-    baseSpecies: 'Genesect',
-    forme: 'Douse',
-    formeLetter: 'D',
-    types: ['Bug', 'Steel'],
-    gender: 'N',
-    baseStats: {hp: 71, atk: 120, def: 95, spa: 120, spd: 95, spe: 99},
-    abilities: {0: 'Download'},
-    heightm: 1.5,
-    weightkg: 82.5,
-    color: 'Purple',
-    eggGroups: ['Undiscovered']
-  },
   chespin: {
+    gen: 'VI',
     num: 650,
     species: 'Chespin',
     types: ['Grass'],
@@ -9860,6 +10572,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   quilladin: {
+    gen: 'VI',
     num: 651,
     species: 'Quilladin',
     types: ['Grass'],
@@ -9875,6 +10588,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   chesnaught: {
+    gen: 'VI',
     num: 652,
     species: 'Chesnaught',
     types: ['Grass', 'Fighting'],
@@ -9889,6 +10603,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   fennekin: {
+    gen: 'VI',
     num: 653,
     species: 'Fennekin',
     types: ['Fire'],
@@ -9902,6 +10617,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   braixen: {
+    gen: 'VI',
     num: 654,
     species: 'Braixen',
     types: ['Fire'],
@@ -9917,6 +10633,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   delphox: {
+    gen: 'VI',
     num: 655,
     species: 'Delphox',
     types: ['Fire', 'Psychic'],
@@ -9931,6 +10648,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   froakie: {
+    gen: 'VI',
     num: 656,
     species: 'Froakie',
     types: ['Water'],
@@ -9944,6 +10662,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   frogadier: {
+    gen: 'VI',
     num: 657,
     species: 'Frogadier',
     types: ['Water'],
@@ -9959,6 +10678,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   greninja: {
+    gen: 'VI',
     num: 658,
     species: 'Greninja',
     types: ['Water', 'Dark'],
@@ -9974,6 +10694,7 @@ exports.BattlePokedex = {
     otherFormes: ['greninjaash']
   },
   greninjaash: {
+    gen: 'VI',
     num: 658,
     species: 'Greninja-Ash',
     baseSpecies: 'Greninja',
@@ -9990,6 +10711,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   bunnelby: {
+    gen: 'VI',
     num: 659,
     species: 'Bunnelby',
     types: ['Normal'],
@@ -10002,6 +10724,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   diggersby: {
+    gen: 'VI',
     num: 660,
     species: 'Diggersby',
     types: ['Normal', 'Ground'],
@@ -10015,6 +10738,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   fletchling: {
+    gen: 'VI',
     num: 661,
     species: 'Fletchling',
     types: ['Normal', 'Flying'],
@@ -10027,6 +10751,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   fletchinder: {
+    gen: 'VI',
     num: 662,
     species: 'Fletchinder',
     types: ['Fire', 'Flying'],
@@ -10041,6 +10766,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   talonflame: {
+    gen: 'VI',
     num: 663,
     species: 'Talonflame',
     types: ['Fire', 'Flying'],
@@ -10054,6 +10780,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   scatterbug: {
+    gen: 'VI',
     num: 664,
     species: 'Scatterbug',
     types: ['Bug'],
@@ -10066,6 +10793,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   spewpa: {
+    gen: 'VI',
     num: 665,
     species: 'Spewpa',
     types: ['Bug'],
@@ -10080,6 +10808,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   vivillon: {
+    gen: 'VI',
     num: 666,
     species: 'Vivillon',
     types: ['Bug', 'Flying'],
@@ -10095,6 +10824,7 @@ exports.BattlePokedex = {
     otherFormes: ['vivillonfancy', 'vivillonpokeball']
   },
   litleo: {
+    gen: 'VI',
     num: 667,
     species: 'Litleo',
     types: ['Fire', 'Normal'],
@@ -10108,6 +10838,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pyroar: {
+    gen: 'VI',
     num: 668,
     species: 'Pyroar',
     types: ['Fire', 'Normal'],
@@ -10122,6 +10853,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   flabebe: {
+    gen: 'VI',
     num: 669,
     species: 'Flabebe',
     baseForme: 'Red',
@@ -10137,6 +10869,7 @@ exports.BattlePokedex = {
     otherForms: ['flabebeblue', 'flabebeorange', 'flabebewhite', 'flabebeyellow']
   },
   floette: {
+    gen: 'VI',
     num: 670,
     species: 'Floette',
     baseForme: 'Red',
@@ -10155,6 +10888,7 @@ exports.BattlePokedex = {
     otherFormes: ['floetteeternal']
   },
   florges: {
+    gen: 'VI',
     num: 671,
     species: 'Florges',
     baseForme: 'Red',
@@ -10171,6 +10905,7 @@ exports.BattlePokedex = {
     otherForms: ['florgesblue', 'florgesorange', 'florgeswhite', 'florgesyellow']
   },
   skiddo: {
+    gen: 'VI',
     num: 672,
     species: 'Skiddo',
     types: ['Grass'],
@@ -10183,6 +10918,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   gogoat: {
+    gen: 'VI',
     num: 673,
     species: 'Gogoat',
     types: ['Grass'],
@@ -10196,6 +10932,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   pancham: {
+    gen: 'VI',
     num: 674,
     species: 'Pancham',
     types: ['Fighting'],
@@ -10208,6 +10945,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   pangoro: {
+    gen: 'VI',
     num: 675,
     species: 'Pangoro',
     types: ['Fighting', 'Dark'],
@@ -10221,6 +10959,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Human-Like']
   },
   furfrou: {
+    gen: 'VI',
     num: 676,
     species: 'Furfrou',
     types: ['Normal'],
@@ -10232,6 +10971,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   espurr: {
+    gen: 'VI',
     num: 677,
     species: 'Espurr',
     types: ['Psychic'],
@@ -10244,6 +10984,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   meowstic: {
+    gen: 'VI',
     num: 678,
     species: 'Meowstic',
     baseForme: 'M',
@@ -10260,6 +11001,7 @@ exports.BattlePokedex = {
     otherFormes: ['meowsticf']
   },
   honedge: {
+    gen: 'VI',
     num: 679,
     species: 'Honedge',
     types: ['Steel', 'Ghost'],
@@ -10272,6 +11014,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   doublade: {
+    gen: 'VI',
     num: 680,
     species: 'Doublade',
     types: ['Steel', 'Ghost'],
@@ -10286,6 +11029,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   aegislash: {
+    gen: 'VI',
     num: 681,
     species: 'Aegislash',
     baseForme: 'Shield',
@@ -10302,6 +11046,7 @@ exports.BattlePokedex = {
     otherFormes: ['aegislashblade']
   },
   aegislashblade: {
+    gen: 'VI',
     num: 681,
     species: 'Aegislash-Blade',
     baseSpecies: 'Aegislash',
@@ -10318,6 +11063,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   spritzee: {
+    gen: 'VI',
     num: 682,
     species: 'Spritzee',
     types: ['Fairy'],
@@ -10330,6 +11076,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   aromatisse: {
+    gen: 'VI',
     num: 683,
     species: 'Aromatisse',
     types: ['Fairy'],
@@ -10343,6 +11090,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   swirlix: {
+    gen: 'VI',
     num: 684,
     species: 'Swirlix',
     types: ['Fairy'],
@@ -10355,6 +11103,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   slurpuff: {
+    gen: 'VI',
     num: 685,
     species: 'Slurpuff',
     types: ['Fairy'],
@@ -10368,6 +11117,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy']
   },
   inkay: {
+    gen: 'VI',
     num: 686,
     species: 'Inkay',
     types: ['Dark', 'Psychic'],
@@ -10380,6 +11130,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   malamar: {
+    gen: 'VI',
     num: 687,
     species: 'Malamar',
     types: ['Dark', 'Psychic'],
@@ -10393,6 +11144,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 2']
   },
   binacle: {
+    gen: 'VI',
     num: 688,
     species: 'Binacle',
     types: ['Rock', 'Water'],
@@ -10405,6 +11157,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   barbaracle: {
+    gen: 'VI',
     num: 689,
     species: 'Barbaracle',
     types: ['Rock', 'Water'],
@@ -10418,6 +11171,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   skrelp: {
+    gen: 'VI',
     num: 690,
     species: 'Skrelp',
     types: ['Poison', 'Water'],
@@ -10430,6 +11184,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   dragalge: {
+    gen: 'VI',
     num: 691,
     species: 'Dragalge',
     types: ['Poison', 'Dragon'],
@@ -10443,6 +11198,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Dragon']
   },
   clauncher: {
+    gen: 'VI',
     num: 692,
     species: 'Clauncher',
     types: ['Water'],
@@ -10455,6 +11211,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   clawitzer: {
+    gen: 'VI',
     num: 693,
     species: 'Clawitzer',
     types: ['Water'],
@@ -10468,6 +11225,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Water 3']
   },
   helioptile: {
+    gen: 'VI',
     num: 694,
     species: 'Helioptile',
     types: ['Electric', 'Normal'],
@@ -10480,6 +11238,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   heliolisk: {
+    gen: 'VI',
     num: 695,
     species: 'Heliolisk',
     types: ['Electric', 'Normal'],
@@ -10493,6 +11252,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   tyrunt: {
+    gen: 'VI',
     num: 696,
     species: 'Tyrunt',
     types: ['Rock', 'Dragon'],
@@ -10506,6 +11266,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   tyrantrum: {
+    gen: 'VI',
     num: 697,
     species: 'Tyrantrum',
     types: ['Rock', 'Dragon'],
@@ -10520,6 +11281,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   amaura: {
+    gen: 'VI',
     num: 698,
     species: 'Amaura',
     types: ['Rock', 'Ice'],
@@ -10533,6 +11295,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   aurorus: {
+    gen: 'VI',
     num: 699,
     species: 'Aurorus',
     types: ['Rock', 'Ice'],
@@ -10547,6 +11310,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   sylveon: {
+    gen: 'VI',
     num: 700,
     species: 'Sylveon',
     types: ['Fairy'],
@@ -10561,6 +11325,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   hawlucha: {
+    gen: 'VI',
     num: 701,
     species: 'Hawlucha',
     types: ['Fighting', 'Flying'],
@@ -10572,6 +11337,7 @@ exports.BattlePokedex = {
     eggGroups: ['Human-Like']
   },
   dedenne: {
+    gen: 'VI',
     num: 702,
     species: 'Dedenne',
     types: ['Electric', 'Fairy'],
@@ -10583,6 +11349,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   carbink: {
+    gen: 'VI',
     num: 703,
     species: 'Carbink',
     types: ['Rock', 'Fairy'],
@@ -10595,6 +11362,7 @@ exports.BattlePokedex = {
     eggGroups: ['Fairy', 'Mineral']
   },
   goomy: {
+    gen: 'VI',
     num: 704,
     species: 'Goomy',
     types: ['Dragon'],
@@ -10607,6 +11375,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   sliggoo: {
+    gen: 'VI',
     num: 705,
     species: 'Sliggoo',
     types: ['Dragon'],
@@ -10621,6 +11390,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   goodra: {
+    gen: 'VI',
     num: 706,
     species: 'Goodra',
     types: ['Dragon'],
@@ -10634,6 +11404,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   klefki: {
+    gen: 'VI',
     num: 707,
     species: 'Klefki',
     types: ['Steel', 'Fairy'],
@@ -10645,6 +11416,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   phantump: {
+    gen: 'VI',
     num: 708,
     species: 'Phantump',
     types: ['Ghost', 'Grass'],
@@ -10657,6 +11429,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Amorphous']
   },
   trevenant: {
+    gen: 'VI',
     num: 709,
     species: 'Trevenant',
     types: ['Ghost', 'Grass'],
@@ -10670,6 +11443,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass', 'Amorphous']
   },
   pumpkaboo: {
+    gen: 'VI',
     num: 710,
     species: 'Pumpkaboo',
     baseForme: 'Average',
@@ -10684,6 +11458,7 @@ exports.BattlePokedex = {
     otherFormes: ['pumpkaboosmall', 'pumpkaboolarge', 'pumpkaboosuper']
   },
   gourgeist: {
+    gen: 'VI',
     num: 711,
     species: 'Gourgeist',
     baseForme: 'Average',
@@ -10699,6 +11474,7 @@ exports.BattlePokedex = {
     otherFormes: ['gourgeistsmall', 'gourgeistlarge', 'gourgeistsuper']
   },
   bergmite: {
+    gen: 'VI',
     num: 712,
     species: 'Bergmite',
     types: ['Ice'],
@@ -10711,6 +11487,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   avalugg: {
+    gen: 'VI',
     num: 713,
     species: 'Avalugg',
     types: ['Ice'],
@@ -10724,6 +11501,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster']
   },
   noibat: {
+    gen: 'VI',
     num: 714,
     species: 'Noibat',
     types: ['Flying', 'Dragon'],
@@ -10736,6 +11514,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   noivern: {
+    gen: 'VI',
     num: 715,
     species: 'Noivern',
     types: ['Flying', 'Dragon'],
@@ -10749,6 +11528,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   xerneas: {
+    gen: 'VI',
     num: 716,
     species: 'Xerneas',
     types: ['Fairy'],
@@ -10761,6 +11541,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   yveltal: {
+    gen: 'VI',
     num: 717,
     species: 'Yveltal',
     types: ['Dark', 'Flying'],
@@ -10773,6 +11554,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   zygarde: {
+    gen: 'VI',
     num: 718,
     species: 'Zygarde',
     baseForme: '50%',
@@ -10787,6 +11569,7 @@ exports.BattlePokedex = {
     otherFormes: ['zygarde10', 'zygardecomplete']
   },
   zygarde10: {
+    gen: 'VI',
     num: 718,
     species: 'Zygarde-10%',
     baseSpecies: 'Zygarde',
@@ -10803,6 +11586,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   zygardecomplete: {
+    gen: 'VI',
     num: 718,
     species: 'Zygarde-Complete',
     baseSpecies: 'Zygarde',
@@ -10819,6 +11603,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   diancie: {
+    gen: 'VI',
     num: 719,
     species: 'Diancie',
     types: ['Rock', 'Fairy'],
@@ -10832,6 +11617,7 @@ exports.BattlePokedex = {
     otherFormes: ['dianciemega']
   },
   dianciemega: {
+    gen: 'VI',
     num: 719,
     species: 'Diancie-Mega',
     baseSpecies: 'Diancie',
@@ -10848,6 +11634,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   hoopa: {
+    gen: 'VI',
     num: 720,
     species: 'Hoopa',
     baseForme: 'Confined',
@@ -10862,6 +11649,7 @@ exports.BattlePokedex = {
     otherFormes: ['hoopaunbound']
   },
   hoopaunbound: {
+    gen: 'VI',
     num: 720,
     species: 'Hoopa-Unbound',
     baseSpecies: 'Hoopa',
@@ -10878,6 +11666,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   volcanion: {
+    gen: 'VI',
     num: 721,
     species: 'Volcanion',
     types: ['Fire', 'Water'],
@@ -10890,6 +11679,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   rowlet: {
+    gen: 'VII',
     num: 722,
     species: 'Rowlet',
     types: ['Grass', 'Flying'],
@@ -10903,6 +11693,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   dartrix: {
+    gen: 'VII',
     num: 723,
     species: 'Dartrix',
     types: ['Grass', 'Flying'],
@@ -10918,6 +11709,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   decidueye: {
+    gen: 'VII',
     num: 724,
     species: 'Decidueye',
     types: ['Grass', 'Ghost'],
@@ -10932,6 +11724,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   litten: {
+    gen: 'VII',
     num: 725,
     species: 'Litten',
     types: ['Fire'],
@@ -10945,6 +11738,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   torracat: {
+    gen: 'VII',
     num: 726,
     species: 'Torracat',
     types: ['Fire'],
@@ -10960,6 +11754,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   incineroar: {
+    gen: 'VII',
     num: 727,
     species: 'Incineroar',
     types: ['Fire', 'Dark'],
@@ -10974,6 +11769,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   popplio: {
+    gen: 'VII',
     num: 728,
     species: 'Popplio',
     types: ['Water'],
@@ -10987,6 +11783,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   brionne: {
+    gen: 'VII',
     num: 729,
     species: 'Brionne',
     types: ['Water'],
@@ -11002,6 +11799,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   primarina: {
+    gen: 'VII',
     num: 730,
     species: 'Primarina',
     types: ['Water', 'Fairy'],
@@ -11016,6 +11814,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Field']
   },
   pikipek: {
+    gen: 'VII',
     num: 731,
     species: 'Pikipek',
     types: ['Normal', 'Flying'],
@@ -11028,6 +11827,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   trumbeak: {
+    gen: 'VII',
     num: 732,
     species: 'Trumbeak',
     types: ['Normal', 'Flying'],
@@ -11042,6 +11842,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   toucannon: {
+    gen: 'VII',
     num: 733,
     species: 'Toucannon',
     types: ['Normal', 'Flying'],
@@ -11055,6 +11856,7 @@ exports.BattlePokedex = {
     eggGroups: ['Flying']
   },
   yungoos: {
+    gen: 'VII',
     num: 734,
     species: 'Yungoos',
     types: ['Normal'],
@@ -11067,6 +11869,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   gumshoos: {
+    gen: 'VII',
     num: 735,
     species: 'Gumshoos',
     types: ['Normal'],
@@ -11080,6 +11883,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   grubbin: {
+    gen: 'VII',
     num: 736,
     species: 'Grubbin',
     types: ['Bug'],
@@ -11092,6 +11896,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   charjabug: {
+    gen: 'VII',
     num: 737,
     species: 'Charjabug',
     types: ['Bug', 'Electric'],
@@ -11106,6 +11911,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   vikavolt: {
+    gen: 'VII',
     num: 738,
     species: 'Vikavolt',
     types: ['Bug', 'Electric'],
@@ -11119,6 +11925,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug']
   },
   crabrawler: {
+    gen: 'VII',
     num: 739,
     species: 'Crabrawler',
     types: ['Fighting'],
@@ -11131,6 +11938,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   crabominable: {
+    gen: 'VII',
     num: 740,
     species: 'Crabominable',
     types: ['Fighting', 'Ice'],
@@ -11144,6 +11952,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 3']
   },
   oricorio: {
+    gen: 'VII',
     num: 741,
     species: 'Oricorio',
     baseForme: 'Baile',
@@ -11158,6 +11967,7 @@ exports.BattlePokedex = {
     otherFormes: ['oricoriopompom', 'oricoriopau', 'oricoriosensu']
   },
   cutiefly: {
+    gen: 'VII',
     num: 742,
     species: 'Cutiefly',
     types: ['Bug', 'Fairy'],
@@ -11170,6 +11980,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Fairy']
   },
   ribombee: {
+    gen: 'VII',
     num: 743,
     species: 'Ribombee',
     types: ['Bug', 'Fairy'],
@@ -11183,6 +11994,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Fairy']
   },
   rockruff: {
+    gen: 'VII',
     num: 744,
     species: 'Rockruff',
     types: ['Rock'],
@@ -11195,6 +12007,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   lycanroc: {
+    gen: 'VII',
     num: 745,
     species: 'Lycanroc',
     baseForme: 'Midday',
@@ -11210,6 +12023,7 @@ exports.BattlePokedex = {
     otherFormes: ['lycanrocmidnight']
   },
   lycanrocmidnight: {
+    gen: 'VII',
     num: 745,
     species: 'Lycanroc-Midnight',
     baseSpecies: 'Lycanroc',
@@ -11227,6 +12041,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   wishiwashi: {
+    gen: 'VII',
     num: 746,
     species: 'Wishiwashi',
     baseForme: 'Solo',
@@ -11240,6 +12055,7 @@ exports.BattlePokedex = {
     otherFormes: ['wishiwashischool']
   },
   wishiwashischool: {
+    gen: 'VII',
     num: 746,
     species: 'Wishiwashi-School',
     baseSpecies: 'Wishiwashi',
@@ -11255,6 +12071,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   mareanie: {
+    gen: 'VII',
     num: 747,
     species: 'Mareanie',
     types: ['Poison', 'Water'],
@@ -11267,6 +12084,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   toxapex: {
+    gen: 'VII',
     num: 748,
     species: 'Toxapex',
     types: ['Poison', 'Water'],
@@ -11280,6 +12098,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   mudbray: {
+    gen: 'VII',
     num: 749,
     species: 'Mudbray',
     types: ['Ground'],
@@ -11292,6 +12111,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   mudsdale: {
+    gen: 'VII',
     num: 750,
     species: 'Mudsdale',
     types: ['Ground'],
@@ -11305,6 +12125,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   dewpider: {
+    gen: 'VII',
     num: 751,
     species: 'Dewpider',
     types: ['Water', 'Bug'],
@@ -11317,6 +12138,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Bug']
   },
   araquanid: {
+    gen: 'VII',
     num: 752,
     species: 'Araquanid',
     types: ['Water', 'Bug'],
@@ -11330,6 +12152,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1', 'Bug']
   },
   fomantis: {
+    gen: 'VII',
     num: 753,
     species: 'Fomantis',
     types: ['Grass'],
@@ -11342,6 +12165,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   lurantis: {
+    gen: 'VII',
     num: 754,
     species: 'Lurantis',
     types: ['Grass'],
@@ -11355,6 +12179,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   morelull: {
+    gen: 'VII',
     num: 755,
     species: 'Morelull',
     types: ['Grass', 'Fairy'],
@@ -11367,6 +12192,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   shiinotic: {
+    gen: 'VII',
     num: 756,
     species: 'Shiinotic',
     types: ['Grass', 'Fairy'],
@@ -11380,6 +12206,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   salandit: {
+    gen: 'VII',
     num: 757,
     species: 'Salandit',
     types: ['Poison', 'Fire'],
@@ -11393,6 +12220,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   salazzle: {
+    gen: 'VII',
     num: 758,
     species: 'Salazzle',
     types: ['Poison', 'Fire'],
@@ -11407,6 +12235,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   stufful: {
+    gen: 'VII',
     num: 759,
     species: 'Stufful',
     types: ['Normal', 'Fighting'],
@@ -11419,6 +12248,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   bewear: {
+    gen: 'VII',
     num: 760,
     species: 'Bewear',
     types: ['Normal', 'Fighting'],
@@ -11432,6 +12262,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   bounsweet: {
+    gen: 'VII',
     num: 761,
     species: 'Bounsweet',
     types: ['Grass'],
@@ -11445,6 +12276,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   steenee: {
+    gen: 'VII',
     num: 762,
     species: 'Steenee',
     types: ['Grass'],
@@ -11460,6 +12292,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   tsareena: {
+    gen: 'VII',
     num: 763,
     species: 'Tsareena',
     types: ['Grass'],
@@ -11474,6 +12307,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   comfey: {
+    gen: 'VII',
     num: 764,
     species: 'Comfey',
     types: ['Fairy'],
@@ -11486,6 +12320,7 @@ exports.BattlePokedex = {
     eggGroups: ['Grass']
   },
   oranguru: {
+    gen: 'VII',
     num: 765,
     species: 'Oranguru',
     types: ['Normal', 'Psychic'],
@@ -11497,6 +12332,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   passimian: {
+    gen: 'VII',
     num: 766,
     species: 'Passimian',
     types: ['Fighting'],
@@ -11508,6 +12344,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   wimpod: {
+    gen: 'VII',
     num: 767,
     species: 'Wimpod',
     types: ['Bug', 'Water'],
@@ -11520,6 +12357,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Water 3']
   },
   golisopod: {
+    gen: 'VII',
     num: 768,
     species: 'Golisopod',
     types: ['Bug', 'Water'],
@@ -11533,6 +12371,7 @@ exports.BattlePokedex = {
     eggGroups: ['Bug', 'Water 3']
   },
   sandygast: {
+    gen: 'VII',
     num: 769,
     species: 'Sandygast',
     types: ['Ghost', 'Ground'],
@@ -11545,6 +12384,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   palossand: {
+    gen: 'VII',
     num: 770,
     species: 'Palossand',
     types: ['Ghost', 'Ground'],
@@ -11558,6 +12398,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   pyukumuku: {
+    gen: 'VII',
     num: 771,
     species: 'Pyukumuku',
     types: ['Water'],
@@ -11569,6 +12410,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 1']
   },
   typenull: {
+    gen: 'VII',
     num: 772,
     species: 'Type: Null',
     types: ['Normal'],
@@ -11582,6 +12424,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   silvally: {
+    gen: 'VII',
     num: 773,
     species: 'Silvally',
     types: ['Normal'],
@@ -11597,6 +12440,7 @@ exports.BattlePokedex = {
     otherFormes: ['silvallybug', 'silvallydark', 'silvallydragon', 'silvallyelectric', 'silvallyfairy', 'silvallyfighting', 'silvallyfire', 'silvallyflying', 'silvallyghost', 'silvallygrass', 'silvallyground', 'silvallyice', 'silvallypoison', 'silvallypsychic', 'silvallyrock', 'silvallysteel', 'silvallywater']
   },
   minior: {
+    gen: 'VII',
     num: 774,
     species: 'Minior',
     baseForme: 'Red',
@@ -11613,6 +12457,7 @@ exports.BattlePokedex = {
     otherForms: ['miniororange', 'minioryellow', 'miniorgreen', 'miniorblue', 'miniorindigo', 'miniorviolet']
   },
   miniormeteor: {
+    gen: 'VII',
     num: 774,
     species: 'Minior-Meteor',
     baseSpecies: 'Minior',
@@ -11628,6 +12473,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   komala: {
+    gen: 'VII',
     num: 775,
     species: 'Komala',
     types: ['Normal'],
@@ -11639,6 +12485,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field']
   },
   turtonator: {
+    gen: 'VII',
     num: 776,
     species: 'Turtonator',
     types: ['Fire', 'Dragon'],
@@ -11650,6 +12497,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   togedemaru: {
+    gen: 'VII',
     num: 777,
     species: 'Togedemaru',
     types: ['Electric', 'Steel'],
@@ -11661,6 +12509,7 @@ exports.BattlePokedex = {
     eggGroups: ['Field', 'Fairy']
   },
   mimikyu: {
+    gen: 'VII',
     num: 778,
     species: 'Mimikyu',
     types: ['Ghost', 'Fairy'],
@@ -11673,6 +12522,7 @@ exports.BattlePokedex = {
     otherFormes: ['mimikyubusted']
   },
   mimikyubusted: {
+    gen: 'VII',
     num: 778,
     species: 'Mimikyu-Busted',
     baseSpecies: 'Mimikyu',
@@ -11687,6 +12537,7 @@ exports.BattlePokedex = {
     eggGroups: ['Amorphous']
   },
   bruxish: {
+    gen: 'VII',
     num: 779,
     species: 'Bruxish',
     types: ['Water', 'Psychic'],
@@ -11698,6 +12549,7 @@ exports.BattlePokedex = {
     eggGroups: ['Water 2']
   },
   drampa: {
+    gen: 'VII',
     num: 780,
     species: 'Drampa',
     types: ['Normal', 'Dragon'],
@@ -11709,6 +12561,7 @@ exports.BattlePokedex = {
     eggGroups: ['Monster', 'Dragon']
   },
   dhelmise: {
+    gen: 'VII',
     num: 781,
     species: 'Dhelmise',
     types: ['Ghost', 'Grass'],
@@ -11721,6 +12574,7 @@ exports.BattlePokedex = {
     eggGroups: ['Mineral']
   },
   jangmoo: {
+    gen: 'VII',
     num: 782,
     species: 'Jangmo-o',
     types: ['Dragon'],
@@ -11733,6 +12587,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   hakamoo: {
+    gen: 'VII',
     num: 783,
     species: 'Hakamo-o',
     types: ['Dragon', 'Fighting'],
@@ -11747,6 +12602,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   kommoo: {
+    gen: 'VII',
     num: 784,
     species: 'Kommo-o',
     types: ['Dragon', 'Fighting'],
@@ -11760,6 +12616,7 @@ exports.BattlePokedex = {
     eggGroups: ['Dragon']
   },
   tapukoko: {
+    gen: 'VII',
     num: 785,
     species: 'Tapu Koko',
     types: ['Electric', 'Fairy'],
@@ -11772,6 +12629,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   tapulele: {
+    gen: 'VII',
     num: 786,
     species: 'Tapu Lele',
     types: ['Psychic', 'Fairy'],
@@ -11784,6 +12642,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   tapubulu: {
+    gen: 'VII',
     num: 787,
     species: 'Tapu Bulu',
     types: ['Grass', 'Fairy'],
@@ -11796,6 +12655,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   tapufini: {
+    gen: 'VII',
     num: 788,
     species: 'Tapu Fini',
     types: ['Water', 'Fairy'],
@@ -11808,6 +12668,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   cosmog: {
+    gen: 'VII',
     num: 789,
     species: 'Cosmog',
     types: ['Psychic'],
@@ -11821,6 +12682,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   cosmoem: {
+    gen: 'VII',
     num: 790,
     species: 'Cosmoem',
     types: ['Psychic'],
@@ -11836,6 +12698,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   solgaleo: {
+    gen: 'VII',
     num: 791,
     species: 'Solgaleo',
     types: ['Psychic', 'Steel'],
@@ -11850,6 +12713,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   lunala: {
+    gen: 'VII',
     num: 792,
     species: 'Lunala',
     types: ['Psychic', 'Ghost'],
@@ -11864,6 +12728,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   nihilego: {
+    gen: 'VII',
     num: 793,
     species: 'Nihilego',
     types: ['Rock', 'Poison'],
@@ -11876,6 +12741,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   buzzwole: {
+    gen: 'VII',
     num: 794,
     species: 'Buzzwole',
     types: ['Bug', 'Fighting'],
@@ -11888,6 +12754,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   pheromosa: {
+    gen: 'VII',
     num: 795,
     species: 'Pheromosa',
     types: ['Bug', 'Fighting'],
@@ -11900,6 +12767,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   xurkitree: {
+    gen: 'VII',
     num: 796,
     species: 'Xurkitree',
     types: ['Electric'],
@@ -11912,6 +12780,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   celesteela: {
+    gen: 'VII',
     num: 797,
     species: 'Celesteela',
     types: ['Steel', 'Flying'],
@@ -11924,6 +12793,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   kartana: {
+    gen: 'VII',
     num: 798,
     species: 'Kartana',
     types: ['Grass', 'Steel'],
@@ -11936,6 +12806,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   guzzlord: {
+    gen: 'VII',
     num: 799,
     species: 'Guzzlord',
     types: ['Dark', 'Dragon'],
@@ -11948,6 +12819,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   necrozma: {
+    gen: 'VII',
     num: 800,
     species: 'Necrozma',
     types: ['Psychic'],
@@ -11960,6 +12832,7 @@ exports.BattlePokedex = {
     eggGroups: ['Undiscovered']
   },
   magearna: {
+    gen: 'VII',
     num: 801,
     species: 'Magearna',
     types: ['Steel', 'Fairy'],
@@ -11973,6 +12846,7 @@ exports.BattlePokedex = {
     otherFormes: ['magearnaoriginal']
   },
   marshadow: {
+    gen: 'VII',
     num: 802,
     species: 'Marshadow',
     types: ['Fighting', 'Ghost'],

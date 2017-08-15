@@ -9,9 +9,11 @@
     "start": "node build/dev-server.js",
     "build": "node build/build.js",
     "lint": "eslint --ext .js,.vue src",
-    "generate-icons": "vsvg -s ./static/svg-icons -t ./src/compiled-icons"
+    "generate-icons": "vsvg -s ./static/svg-icons -t ./src/compiled-icons",
+    "pokeinit": "node ./setup/pokeinit.js"
   },
   "dependencies": {
+    "firebase": "^4.2.0",
     "vue": "^2.4.2",
     "vue-router": "^2.3.1",
     "vue-scrollto": "^2.7.2",
